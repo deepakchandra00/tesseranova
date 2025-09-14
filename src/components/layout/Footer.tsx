@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { motion } from 'framer-motion';
 
 const footerLinks = {
@@ -61,9 +62,16 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div>
-            <h3 className="text-2xl font-bold font-mono bg-gradient-to-r from-purple-600 to-cyan-600 bg-clip-text text-transparent mb-6">
-              TesseraNova
-            </h3>
+            <div className="flex items-center mb-6">
+              <Image
+                src="/logo.png"
+                alt="TesseraNova"
+                width={190}
+                height={70}
+                className="mr-3"
+              />
+
+            </div>
             <p className="text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">
               Guiding enterprises through the wormhole of challenges to the galaxies of innovation.
             </p>

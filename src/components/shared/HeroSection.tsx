@@ -4,6 +4,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import Link from 'next/link';
 import CosmicBackground from './CosmicBackground';
+import WebGLBlackhole from './WebGLBlackhole';
 
 interface HeroSectionProps {
   title: string;
@@ -21,7 +22,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
       {/* Cosmic Background Effects */}
-      <CosmicBackground variant="blackhole" intensity="high" className="opacity-60" />
+      <CosmicBackground variant="starfield" intensity="high" className="opacity-60" />
       
       {/* Floating particles */}
       <div className="absolute inset-0">
@@ -47,22 +48,9 @@ const HeroSection: React.FC<HeroSectionProps> = ({
         ))}
       </div>
 
-      {/* Main blackhole animation */}
-      <div className="absolute top-1/4 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
-        <motion.div
-          className="w-96 h-96 rounded-full"
-          style={{
-            background: 'radial-gradient(circle, transparent 20%, rgba(123, 97, 255, 0.3) 40%, rgba(13, 13, 13, 0.8) 70%, #000 100%)',
-          }}
-          animate={{
-            rotate: 360,
-            scale: [1, 1.1, 1],
-          }}
-          transition={{
-            rotate: { duration: 20, repeat: Infinity, ease: 'linear' },
-            scale: { duration: 4, repeat: Infinity, ease: 'easeInOut' },
-          }}
-        />
+      {/* WebGL Blackhole Animation */}
+      <div className="absolute top-1/4 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-96 h-96">
+        <WebGLBlackhole />
       </div>
 
       {/* Content */}

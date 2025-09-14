@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { ThemeToggle } from '@/components/shared/ThemeToggle';
 import { Bars3Icon, XMarkIcon, ChevronDownIcon, ChevronRightIcon } from '@heroicons/react/24/outline';
 
@@ -259,7 +260,13 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link href="/" className="flex-shrink-0 flex items-center">
-              <span className="text-2xl font-bold text-gray-900 dark:text-white">TesseraNova</span>
+              <Image
+                src="/logo.png"
+                alt="TesseraNova"
+                width={190}
+                height={70}
+                className="mr-3"
+              />
             </Link>
           </div>
 
