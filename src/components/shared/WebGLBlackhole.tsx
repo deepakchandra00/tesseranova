@@ -70,7 +70,9 @@ export default function WebGLBlackhole() {
 
         vec4 finalColor = mix(o_bg, o_anim, 0.5) * 1.5;
         finalColor = clamp(finalColor, 0.0, 1.0);
-        gl_FragColor = finalColor;
+        // Set alpha based on the brightness of the effect
+        float alpha = length(finalColor.rgb) * 3.0;
+        gl_FragColor = vec4(finalColor.rgb, alpha);
       }
     `;
 
@@ -153,7 +155,7 @@ export default function WebGLBlackhole() {
   return (
     <canvas
       ref={canvasRef}
-      className="absolute inset-0 w-full h-full opacity-80"
+      className="absolute inset-0 w-full h-full"
       style={{ mixBlendMode: 'screen' }}
     />
   );
