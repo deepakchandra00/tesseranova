@@ -1,0 +1,2 @@
+import {SiteHeader,SiteFooter} from './SiteChrome';
+export default function NotFound(){return <main className="content-page" id="top"><SiteHeader/><section className="page-body"><div className="container"><p className="eyebrow">404 / PAGE NOT FOUND</p><h1>Let’s get you back on track.</h1><p>The page you’re looking for isn’t here.</p><div className="actions"><a href="/" className="btn">Return home</a><a href="/sitemap">Browse all pages →</a></div></div></section><SiteFooter/></main>}

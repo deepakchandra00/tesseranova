@@ -1,0 +1,3846 @@
+[
+  {
+    "path": "services/custom-web-development",
+    "title": "Custom Web Development",
+    "headline": "Web applications that fit the way you work.",
+    "intro": "Your website is often where a customer first meets your business. Your internal applications are where the work gets done. We design and build both, with attention to the details that make them useful every day.",
+    "category": "Services",
+    "uses": [
+      "Customer portals",
+      "Internal business tools",
+      "Content-rich websites"
+    ],
+    "deliverables": [
+      "User journeys and interface specifications",
+      "Reusable components and documented APIs",
+      "Release plan, testing and handover"
+    ],
+    "links": [
+      {
+        "title": "React",
+        "path": "services/custom-web-development/react",
+        "description": "Reusable interfaces for complex screens and changing data."
+      },
+      {
+        "title": "Angular",
+        "path": "services/custom-web-development/angular",
+        "description": "Structured applications for large teams and long-lived products."
+      },
+      {
+        "title": "Next.js",
+        "path": "services/custom-web-development/next-js",
+        "description": "Content-led websites and full-stack React applications."
+      },
+      {
+        "title": "PHP",
+        "path": "services/custom-web-development/php",
+        "description": "Practical server-side development for existing and new web systems."
+      },
+      {
+        "title": "CakePHP",
+        "path": "services/custom-web-development/cakephp",
+        "description": "Convention-led applications with consistent business logic."
+      },
+      {
+        "title": "Laravel",
+        "path": "services/custom-web-development/laravel",
+        "description": "Custom workflows, APIs and administrative tools."
+      },
+      {
+        "title": "CodeIgniter",
+        "path": "services/custom-web-development/codeigniter",
+        "description": "Focused PHP applications with a small framework footprint."
+      },
+      {
+        "title": "Yii",
+        "path": "services/custom-web-development/yii",
+        "description": "Data-driven applications and maintainable administration interfaces."
+      }
+    ]
+  },
+  {
+    "path": "services/custom-web-development/react",
+    "title": "React",
+    "headline": "Reusable interfaces for complex screens and changing data.",
+    "intro": "Reusable interfaces for complex screens and changing data. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/custom-web-development",
+    "uses": [
+      "Customer portals",
+      "Internal business tools",
+      "Content-rich websites"
+    ],
+    "deliverables": [
+      "User journeys and interface specifications",
+      "Reusable components and documented APIs",
+      "Release plan, testing and handover"
+    ],
+    "detail": "For React, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/custom-web-development/angular",
+    "title": "Angular",
+    "headline": "Structured applications for large teams and long-lived products.",
+    "intro": "Structured applications for large teams and long-lived products. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/custom-web-development",
+    "uses": [
+      "Customer portals",
+      "Internal business tools",
+      "Content-rich websites"
+    ],
+    "deliverables": [
+      "User journeys and interface specifications",
+      "Reusable components and documented APIs",
+      "Release plan, testing and handover"
+    ],
+    "detail": "For Angular, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/custom-web-development/next-js",
+    "title": "Next.js",
+    "headline": "Content-led websites and full-stack React applications.",
+    "intro": "Content-led websites and full-stack React applications. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/custom-web-development",
+    "uses": [
+      "Customer portals",
+      "Internal business tools",
+      "Content-rich websites"
+    ],
+    "deliverables": [
+      "User journeys and interface specifications",
+      "Reusable components and documented APIs",
+      "Release plan, testing and handover"
+    ],
+    "detail": "For Next.js, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/custom-web-development/php",
+    "title": "PHP",
+    "headline": "Practical server-side development for existing and new web systems.",
+    "intro": "Practical server-side development for existing and new web systems. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/custom-web-development",
+    "uses": [
+      "Customer portals",
+      "Internal business tools",
+      "Content-rich websites"
+    ],
+    "deliverables": [
+      "User journeys and interface specifications",
+      "Reusable components and documented APIs",
+      "Release plan, testing and handover"
+    ],
+    "detail": "For PHP, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/custom-web-development/cakephp",
+    "title": "CakePHP",
+    "headline": "Convention-led applications with consistent business logic.",
+    "intro": "Convention-led applications with consistent business logic. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/custom-web-development",
+    "uses": [
+      "Customer portals",
+      "Internal business tools",
+      "Content-rich websites"
+    ],
+    "deliverables": [
+      "User journeys and interface specifications",
+      "Reusable components and documented APIs",
+      "Release plan, testing and handover"
+    ],
+    "detail": "For CakePHP, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/custom-web-development/laravel",
+    "title": "Laravel",
+    "headline": "Custom workflows, APIs and administrative tools.",
+    "intro": "Custom workflows, APIs and administrative tools. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/custom-web-development",
+    "uses": [
+      "Customer portals",
+      "Internal business tools",
+      "Content-rich websites"
+    ],
+    "deliverables": [
+      "User journeys and interface specifications",
+      "Reusable components and documented APIs",
+      "Release plan, testing and handover"
+    ],
+    "detail": "For Laravel, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/custom-web-development/codeigniter",
+    "title": "CodeIgniter",
+    "headline": "Focused PHP applications with a small framework footprint.",
+    "intro": "Focused PHP applications with a small framework footprint. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/custom-web-development",
+    "uses": [
+      "Customer portals",
+      "Internal business tools",
+      "Content-rich websites"
+    ],
+    "deliverables": [
+      "User journeys and interface specifications",
+      "Reusable components and documented APIs",
+      "Release plan, testing and handover"
+    ],
+    "detail": "For CodeIgniter, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/custom-web-development/yii",
+    "title": "Yii",
+    "headline": "Data-driven applications and maintainable administration interfaces.",
+    "intro": "Data-driven applications and maintainable administration interfaces. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/custom-web-development",
+    "uses": [
+      "Customer portals",
+      "Internal business tools",
+      "Content-rich websites"
+    ],
+    "deliverables": [
+      "User journeys and interface specifications",
+      "Reusable components and documented APIs",
+      "Release plan, testing and handover"
+    ],
+    "detail": "For Yii, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/microsoft-services",
+    "title": "Microsoft Services",
+    "headline": "Make your Microsoft systems work together.",
+    "intro": "Disconnected applications can turn a simple task into a chain of spreadsheets and follow-ups. We help you build, connect and maintain Microsoft-based systems around the processes your business actually uses.",
+    "category": "Services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "links": [
+      {
+        "title": ".NET / .NET Core",
+        "path": "services/microsoft-services/net-net-core",
+        "description": "Business applications and APIs with clear service boundaries."
+      },
+      {
+        "title": "ASP.NET Development",
+        "path": "services/microsoft-services/asp-net-development",
+        "description": "Web applications backed by structured server-side logic."
+      },
+      {
+        "title": "ASP.NET MVC Development",
+        "path": "services/microsoft-services/asp-net-mvc-development",
+        "description": "Maintainable enterprise web applications."
+      },
+      {
+        "title": "C#",
+        "path": "services/microsoft-services/c",
+        "description": "Domain logic, integrations and background processing."
+      },
+      {
+        "title": "Azure Development",
+        "path": "services/microsoft-services/azure-development",
+        "description": "Cloud applications designed around workload requirements."
+      },
+      {
+        "title": "Azure Integration",
+        "path": "services/microsoft-services/azure-integration",
+        "description": "Connect applications through APIs, events and managed services."
+      },
+      {
+        "title": "SQL Services",
+        "path": "services/microsoft-services/sql-services",
+        "description": "Query tuning, schema design and dependable reporting data."
+      },
+      {
+        "title": "Custom Microsoft Development",
+        "path": "services/microsoft-services/custom-microsoft-development",
+        "description": "Tools that close the gaps between standard products."
+      },
+      {
+        "title": "Microsoft Dynamics",
+        "path": "services/microsoft-services/microsoft-dynamics",
+        "description": "Connect finance and operations with business workflows."
+      },
+      {
+        "title": "Business Central",
+        "path": "services/microsoft-services/business-central",
+        "description": "Adapt business management workflows and integrations."
+      },
+      {
+        "title": "Dynamics AX",
+        "path": "services/microsoft-services/dynamics-ax",
+        "description": "Maintain and plan the modernization of existing AX systems."
+      },
+      {
+        "title": "Dynamics 365 Finance & Operations",
+        "path": "services/microsoft-services/dynamics-365-finance-operations",
+        "description": "Support finance and operational processes with connected systems."
+      },
+      {
+        "title": "SaaS Application Development",
+        "path": "services/microsoft-services/saas-application-development",
+        "description": "Tenant-aware products with subscription and access controls."
+      },
+      {
+        "title": "Database Technologies",
+        "path": "services/microsoft-services/database-technologies",
+        "description": "Design and maintain databases around real query patterns."
+      },
+      {
+        "title": "Microsoft Maintenance",
+        "path": "services/microsoft-services/microsoft-maintenance",
+        "description": "Keep existing applications supportable through upgrades and fixes."
+      }
+    ]
+  },
+  {
+    "path": "services/microsoft-services/net-net-core",
+    "title": ".NET / .NET Core",
+    "headline": "Business applications and APIs with clear service boundaries.",
+    "intro": "Business applications and APIs with clear service boundaries. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/microsoft-services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "detail": "For .NET / .NET Core, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/microsoft-services/asp-net-development",
+    "title": "ASP.NET Development",
+    "headline": "Web applications backed by structured server-side logic.",
+    "intro": "Web applications backed by structured server-side logic. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/microsoft-services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "detail": "For ASP.NET Development, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/microsoft-services/asp-net-mvc-development",
+    "title": "ASP.NET MVC Development",
+    "headline": "Maintainable enterprise web applications.",
+    "intro": "Maintainable enterprise web applications. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/microsoft-services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "detail": "For ASP.NET MVC Development, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/microsoft-services/c",
+    "title": "C#",
+    "headline": "Domain logic, integrations and background processing.",
+    "intro": "Domain logic, integrations and background processing. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/microsoft-services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "detail": "For C#, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/microsoft-services/azure-development",
+    "title": "Azure Development",
+    "headline": "Cloud applications designed around workload requirements.",
+    "intro": "Cloud applications designed around workload requirements. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/microsoft-services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "detail": "For Azure Development, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/microsoft-services/azure-integration",
+    "title": "Azure Integration",
+    "headline": "Connect applications through APIs, events and managed services.",
+    "intro": "Connect applications through APIs, events and managed services. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/microsoft-services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "detail": "For Azure Integration, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/microsoft-services/sql-services",
+    "title": "SQL Services",
+    "headline": "Query tuning, schema design and dependable reporting data.",
+    "intro": "Query tuning, schema design and dependable reporting data. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/microsoft-services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "detail": "For SQL Services, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/microsoft-services/custom-microsoft-development",
+    "title": "Custom Microsoft Development",
+    "headline": "Tools that close the gaps between standard products.",
+    "intro": "Tools that close the gaps between standard products. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/microsoft-services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "detail": "For Custom Microsoft Development, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/microsoft-services/microsoft-dynamics",
+    "title": "Microsoft Dynamics",
+    "headline": "Connect finance and operations with business workflows.",
+    "intro": "Connect finance and operations with business workflows. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/microsoft-services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "detail": "For Microsoft Dynamics, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/microsoft-services/business-central",
+    "title": "Business Central",
+    "headline": "Adapt business management workflows and integrations.",
+    "intro": "Adapt business management workflows and integrations. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/microsoft-services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "detail": "For Business Central, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/microsoft-services/dynamics-ax",
+    "title": "Dynamics AX",
+    "headline": "Maintain and plan the modernization of existing AX systems.",
+    "intro": "Maintain and plan the modernization of existing AX systems. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/microsoft-services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "detail": "For Dynamics AX, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/microsoft-services/dynamics-365-finance-operations",
+    "title": "Dynamics 365 Finance & Operations",
+    "headline": "Support finance and operational processes with connected systems.",
+    "intro": "Support finance and operational processes with connected systems. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/microsoft-services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "detail": "For Dynamics 365 Finance & Operations, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/microsoft-services/saas-application-development",
+    "title": "SaaS Application Development",
+    "headline": "Tenant-aware products with subscription and access controls.",
+    "intro": "Tenant-aware products with subscription and access controls. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/microsoft-services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "detail": "For SaaS Application Development, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/microsoft-services/database-technologies",
+    "title": "Database Technologies",
+    "headline": "Design and maintain databases around real query patterns.",
+    "intro": "Design and maintain databases around real query patterns. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/microsoft-services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "detail": "For Database Technologies, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/microsoft-services/microsoft-maintenance",
+    "title": "Microsoft Maintenance",
+    "headline": "Keep existing applications supportable through upgrades and fixes.",
+    "intro": "Keep existing applications supportable through upgrades and fixes. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/microsoft-services",
+    "uses": [
+      "Enterprise applications",
+      "Cloud integration",
+      "Business operations"
+    ],
+    "deliverables": [
+      "Architecture and integration map",
+      "Application or extension delivery",
+      "Operational documentation and support plan"
+    ],
+    "detail": "For Microsoft Maintenance, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/mobile-app-development",
+    "title": "Mobile App Development",
+    "headline": "Useful in the office. Dependable in the field.",
+    "intro": "A good mobile app makes the next action obvious. We build experiences around the people using them, the devices they carry and the conditions they work in, including limited connectivity.",
+    "category": "Services",
+    "uses": [
+      "Customer applications",
+      "Field workforce tools",
+      "Connected devices"
+    ],
+    "deliverables": [
+      "Journey maps and interactive prototypes",
+      "Tested application builds",
+      "Release preparation and maintenance backlog"
+    ],
+    "links": [
+      {
+        "title": "Android App Development",
+        "path": "services/mobile-app-development/android-app-development",
+        "description": "Device-aware Android experiences for customers and teams."
+      },
+      {
+        "title": "iOS App Development",
+        "path": "services/mobile-app-development/ios-app-development",
+        "description": "Focused iPhone experiences with clear navigation."
+      },
+      {
+        "title": "React Native",
+        "path": "services/mobile-app-development/react-native",
+        "description": "Shared application development across Android and iOS."
+      },
+      {
+        "title": "Tablet App Development",
+        "path": "services/mobile-app-development/tablet-app-development",
+        "description": "Roomier workflows for inspections, operations and service desks."
+      },
+      {
+        "title": "Flutter",
+        "path": "services/mobile-app-development/flutter",
+        "description": "Consistent cross-platform interfaces and interaction patterns."
+      },
+      {
+        "title": "Ionic",
+        "path": "services/mobile-app-development/ionic",
+        "description": "Web-based mobile applications for appropriate business use cases."
+      },
+      {
+        "title": "Enterprise Mobile Solutions",
+        "path": "services/mobile-app-development/enterprise-mobile-solutions",
+        "description": "Role-based mobile access to operational systems."
+      },
+      {
+        "title": "Wearable App Development",
+        "path": "services/mobile-app-development/wearable-app-development",
+        "description": "Small, timely interactions for supported wearable devices."
+      }
+    ]
+  },
+  {
+    "path": "services/mobile-app-development/android-app-development",
+    "title": "Android App Development",
+    "headline": "Device-aware Android experiences for customers and teams.",
+    "intro": "Device-aware Android experiences for customers and teams. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/mobile-app-development",
+    "uses": [
+      "Customer applications",
+      "Field workforce tools",
+      "Connected devices"
+    ],
+    "deliverables": [
+      "Journey maps and interactive prototypes",
+      "Tested application builds",
+      "Release preparation and maintenance backlog"
+    ],
+    "detail": "For Android App Development, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/mobile-app-development/ios-app-development",
+    "title": "iOS App Development",
+    "headline": "Focused iPhone experiences with clear navigation.",
+    "intro": "Focused iPhone experiences with clear navigation. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/mobile-app-development",
+    "uses": [
+      "Customer applications",
+      "Field workforce tools",
+      "Connected devices"
+    ],
+    "deliverables": [
+      "Journey maps and interactive prototypes",
+      "Tested application builds",
+      "Release preparation and maintenance backlog"
+    ],
+    "detail": "For iOS App Development, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/mobile-app-development/react-native",
+    "title": "React Native",
+    "headline": "Shared application development across Android and iOS.",
+    "intro": "Shared application development across Android and iOS. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/mobile-app-development",
+    "uses": [
+      "Customer applications",
+      "Field workforce tools",
+      "Connected devices"
+    ],
+    "deliverables": [
+      "Journey maps and interactive prototypes",
+      "Tested application builds",
+      "Release preparation and maintenance backlog"
+    ],
+    "detail": "For React Native, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/mobile-app-development/tablet-app-development",
+    "title": "Tablet App Development",
+    "headline": "Roomier workflows for inspections, operations and service desks.",
+    "intro": "Roomier workflows for inspections, operations and service desks. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/mobile-app-development",
+    "uses": [
+      "Customer applications",
+      "Field workforce tools",
+      "Connected devices"
+    ],
+    "deliverables": [
+      "Journey maps and interactive prototypes",
+      "Tested application builds",
+      "Release preparation and maintenance backlog"
+    ],
+    "detail": "For Tablet App Development, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/mobile-app-development/flutter",
+    "title": "Flutter",
+    "headline": "Consistent cross-platform interfaces and interaction patterns.",
+    "intro": "Consistent cross-platform interfaces and interaction patterns. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/mobile-app-development",
+    "uses": [
+      "Customer applications",
+      "Field workforce tools",
+      "Connected devices"
+    ],
+    "deliverables": [
+      "Journey maps and interactive prototypes",
+      "Tested application builds",
+      "Release preparation and maintenance backlog"
+    ],
+    "detail": "For Flutter, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/mobile-app-development/ionic",
+    "title": "Ionic",
+    "headline": "Web-based mobile applications for appropriate business use cases.",
+    "intro": "Web-based mobile applications for appropriate business use cases. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/mobile-app-development",
+    "uses": [
+      "Customer applications",
+      "Field workforce tools",
+      "Connected devices"
+    ],
+    "deliverables": [
+      "Journey maps and interactive prototypes",
+      "Tested application builds",
+      "Release preparation and maintenance backlog"
+    ],
+    "detail": "For Ionic, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/mobile-app-development/enterprise-mobile-solutions",
+    "title": "Enterprise Mobile Solutions",
+    "headline": "Role-based mobile access to operational systems.",
+    "intro": "Role-based mobile access to operational systems. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/mobile-app-development",
+    "uses": [
+      "Customer applications",
+      "Field workforce tools",
+      "Connected devices"
+    ],
+    "deliverables": [
+      "Journey maps and interactive prototypes",
+      "Tested application builds",
+      "Release preparation and maintenance backlog"
+    ],
+    "detail": "For Enterprise Mobile Solutions, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/mobile-app-development/wearable-app-development",
+    "title": "Wearable App Development",
+    "headline": "Small, timely interactions for supported wearable devices.",
+    "intro": "Small, timely interactions for supported wearable devices. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/mobile-app-development",
+    "uses": [
+      "Customer applications",
+      "Field workforce tools",
+      "Connected devices"
+    ],
+    "deliverables": [
+      "Journey maps and interactive prototypes",
+      "Tested application builds",
+      "Release preparation and maintenance backlog"
+    ],
+    "detail": "For Wearable App Development, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ui-ux-design",
+    "title": "UI/UX Design",
+    "headline": "Make the complicated feel straightforward.",
+    "intro": "We look at what people need to do, where they hesitate and what gets in their way. Then we turn those findings into interfaces that feel clear from the first interaction.",
+    "category": "Services",
+    "uses": [
+      "Product discovery",
+      "Workflow redesign",
+      "Design systems"
+    ],
+    "deliverables": [
+      "User flows and prioritized findings",
+      "Interactive prototypes",
+      "Component library and developer handover"
+    ],
+    "links": [
+      {
+        "title": "High & Low Fidelity Wireframes",
+        "path": "services/ui-ux-design/high-low-fidelity-wireframes",
+        "description": "Explore the structure before investing in visual detail."
+      },
+      {
+        "title": "Prototypes",
+        "path": "services/ui-ux-design/prototypes",
+        "description": "Test important journeys before development begins."
+      },
+      {
+        "title": "Mobile First Design",
+        "path": "services/ui-ux-design/mobile-first-design",
+        "description": "Prioritize essential tasks on smaller screens."
+      },
+      {
+        "title": "SaaS Design",
+        "path": "services/ui-ux-design/saas-design",
+        "description": "Organize complex workflows around clear next steps."
+      },
+      {
+        "title": "eCommerce Design",
+        "path": "services/ui-ux-design/ecommerce-design",
+        "description": "Reduce friction between finding a product and completing a purchase."
+      }
+    ]
+  },
+  {
+    "path": "services/ui-ux-design/high-low-fidelity-wireframes",
+    "title": "High & Low Fidelity Wireframes",
+    "headline": "Explore the structure before investing in visual detail.",
+    "intro": "Explore the structure before investing in visual detail. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ui-ux-design",
+    "uses": [
+      "Product discovery",
+      "Workflow redesign",
+      "Design systems"
+    ],
+    "deliverables": [
+      "User flows and prioritized findings",
+      "Interactive prototypes",
+      "Component library and developer handover"
+    ],
+    "detail": "For High & Low Fidelity Wireframes, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ui-ux-design/prototypes",
+    "title": "Prototypes",
+    "headline": "Test important journeys before development begins.",
+    "intro": "Test important journeys before development begins. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ui-ux-design",
+    "uses": [
+      "Product discovery",
+      "Workflow redesign",
+      "Design systems"
+    ],
+    "deliverables": [
+      "User flows and prioritized findings",
+      "Interactive prototypes",
+      "Component library and developer handover"
+    ],
+    "detail": "For Prototypes, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ui-ux-design/mobile-first-design",
+    "title": "Mobile First Design",
+    "headline": "Prioritize essential tasks on smaller screens.",
+    "intro": "Prioritize essential tasks on smaller screens. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ui-ux-design",
+    "uses": [
+      "Product discovery",
+      "Workflow redesign",
+      "Design systems"
+    ],
+    "deliverables": [
+      "User flows and prioritized findings",
+      "Interactive prototypes",
+      "Component library and developer handover"
+    ],
+    "detail": "For Mobile First Design, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ui-ux-design/saas-design",
+    "title": "SaaS Design",
+    "headline": "Organize complex workflows around clear next steps.",
+    "intro": "Organize complex workflows around clear next steps. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ui-ux-design",
+    "uses": [
+      "Product discovery",
+      "Workflow redesign",
+      "Design systems"
+    ],
+    "deliverables": [
+      "User flows and prioritized findings",
+      "Interactive prototypes",
+      "Component library and developer handover"
+    ],
+    "detail": "For SaaS Design, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ui-ux-design/ecommerce-design",
+    "title": "eCommerce Design",
+    "headline": "Reduce friction between finding a product and completing a purchase.",
+    "intro": "Reduce friction between finding a product and completing a purchase. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ui-ux-design",
+    "uses": [
+      "Product discovery",
+      "Workflow redesign",
+      "Design systems"
+    ],
+    "deliverables": [
+      "User flows and prioritized findings",
+      "Interactive prototypes",
+      "Component library and developer handover"
+    ],
+    "detail": "For eCommerce Design, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/full-stack-development",
+    "title": "Full Stack Development",
+    "headline": "One product. A connected engineering approach.",
+    "intro": "The interface, business logic and data layer need to agree with each other. We bring them together so your team can build features without creating avoidable complexity behind the scenes.",
+    "category": "Services",
+    "uses": [
+      "New digital products",
+      "Legacy modernization",
+      "API platforms"
+    ],
+    "deliverables": [
+      "Application architecture and data model",
+      "Front-end and back-end implementation",
+      "Automated checks and release documentation"
+    ],
+    "links": [
+      {
+        "title": "MEAN",
+        "path": "services/full-stack-development/mean",
+        "description": "Angular interfaces connected to Node.js services and MongoDB."
+      },
+      {
+        "title": "MERN",
+        "path": "services/full-stack-development/mern",
+        "description": "React experiences backed by Node.js services and MongoDB."
+      },
+      {
+        "title": "LAMP",
+        "path": "services/full-stack-development/lamp",
+        "description": "Established web architectures using Linux, Apache, MySQL and PHP."
+      },
+      {
+        "title": "Angular / React & .NET",
+        "path": "services/full-stack-development/angular-react-net",
+        "description": "Modern interfaces connected to enterprise .NET services."
+      },
+      {
+        "title": "Ruby on Rails",
+        "path": "services/full-stack-development/ruby-on-rails",
+        "description": "Business applications built around clear domain models."
+      },
+      {
+        "title": "ASP.NET",
+        "path": "services/full-stack-development/asp-net",
+        "description": "Server-side application development for connected business workflows."
+      },
+      {
+        "title": "AI & Bot Development",
+        "path": "services/full-stack-development/ai-bot-development",
+        "description": "Assistants integrated with the application actions they need."
+      }
+    ]
+  },
+  {
+    "path": "services/full-stack-development/mean",
+    "title": "MEAN",
+    "headline": "Angular interfaces connected to Node.js services and MongoDB.",
+    "intro": "Angular interfaces connected to Node.js services and MongoDB. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/full-stack-development",
+    "uses": [
+      "New digital products",
+      "Legacy modernization",
+      "API platforms"
+    ],
+    "deliverables": [
+      "Application architecture and data model",
+      "Front-end and back-end implementation",
+      "Automated checks and release documentation"
+    ],
+    "detail": "For MEAN, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/full-stack-development/mern",
+    "title": "MERN",
+    "headline": "React experiences backed by Node.js services and MongoDB.",
+    "intro": "React experiences backed by Node.js services and MongoDB. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/full-stack-development",
+    "uses": [
+      "New digital products",
+      "Legacy modernization",
+      "API platforms"
+    ],
+    "deliverables": [
+      "Application architecture and data model",
+      "Front-end and back-end implementation",
+      "Automated checks and release documentation"
+    ],
+    "detail": "For MERN, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/full-stack-development/lamp",
+    "title": "LAMP",
+    "headline": "Established web architectures using Linux, Apache, MySQL and PHP.",
+    "intro": "Established web architectures using Linux, Apache, MySQL and PHP. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/full-stack-development",
+    "uses": [
+      "New digital products",
+      "Legacy modernization",
+      "API platforms"
+    ],
+    "deliverables": [
+      "Application architecture and data model",
+      "Front-end and back-end implementation",
+      "Automated checks and release documentation"
+    ],
+    "detail": "For LAMP, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/full-stack-development/angular-react-net",
+    "title": "Angular / React & .NET",
+    "headline": "Modern interfaces connected to enterprise .NET services.",
+    "intro": "Modern interfaces connected to enterprise .NET services. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/full-stack-development",
+    "uses": [
+      "New digital products",
+      "Legacy modernization",
+      "API platforms"
+    ],
+    "deliverables": [
+      "Application architecture and data model",
+      "Front-end and back-end implementation",
+      "Automated checks and release documentation"
+    ],
+    "detail": "For Angular / React & .NET, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/full-stack-development/ruby-on-rails",
+    "title": "Ruby on Rails",
+    "headline": "Business applications built around clear domain models.",
+    "intro": "Business applications built around clear domain models. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/full-stack-development",
+    "uses": [
+      "New digital products",
+      "Legacy modernization",
+      "API platforms"
+    ],
+    "deliverables": [
+      "Application architecture and data model",
+      "Front-end and back-end implementation",
+      "Automated checks and release documentation"
+    ],
+    "detail": "For Ruby on Rails, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/full-stack-development/asp-net",
+    "title": "ASP.NET",
+    "headline": "Server-side application development for connected business workflows.",
+    "intro": "Server-side application development for connected business workflows. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/full-stack-development",
+    "uses": [
+      "New digital products",
+      "Legacy modernization",
+      "API platforms"
+    ],
+    "deliverables": [
+      "Application architecture and data model",
+      "Front-end and back-end implementation",
+      "Automated checks and release documentation"
+    ],
+    "detail": "For ASP.NET, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/full-stack-development/ai-bot-development",
+    "title": "AI & Bot Development",
+    "headline": "Assistants integrated with the application actions they need.",
+    "intro": "Assistants integrated with the application actions they need. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/full-stack-development",
+    "uses": [
+      "New digital products",
+      "Legacy modernization",
+      "API platforms"
+    ],
+    "deliverables": [
+      "Application architecture and data model",
+      "Front-end and back-end implementation",
+      "Automated checks and release documentation"
+    ],
+    "detail": "For AI & Bot Development, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ai-ml-iot",
+    "title": "AI/ML & IoT",
+    "headline": "Put your data to work on a real problem.",
+    "intro": "We start with a decision or task that needs to improve. From there, we assess the data, establish a baseline and test whether a model or connected-device solution can make a useful difference.",
+    "category": "Services",
+    "uses": [
+      "Operational insights",
+      "Connected equipment",
+      "Decision support"
+    ],
+    "deliverables": [
+      "Data-readiness assessment",
+      "Evaluated pilot with agreed success criteria",
+      "Integration, monitoring and human review design"
+    ],
+    "links": [
+      {
+        "title": "Predictive Analytics",
+        "path": "services/ai-ml-iot/predictive-analytics",
+        "description": "Estimate likely outcomes using historical patterns."
+      },
+      {
+        "title": "Natural Language Processing",
+        "path": "services/ai-ml-iot/natural-language-processing",
+        "description": "Extract and organize meaning from business text."
+      },
+      {
+        "title": "Computer Vision",
+        "path": "services/ai-ml-iot/computer-vision",
+        "description": "Interpret visual inputs for a defined operational task."
+      },
+      {
+        "title": "Recommendation Systems",
+        "path": "services/ai-ml-iot/recommendation-systems",
+        "description": "Rank relevant options using available signals."
+      },
+      {
+        "title": "IoT Integration",
+        "path": "services/ai-ml-iot/iot-integration",
+        "description": "Connect device events to business applications."
+      },
+      {
+        "title": "Real-Time Insights",
+        "path": "services/ai-ml-iot/real-time-insights",
+        "description": "Surface timely information from operational streams."
+      }
+    ]
+  },
+  {
+    "path": "services/ai-ml-iot/predictive-analytics",
+    "title": "Predictive Analytics",
+    "headline": "Estimate likely outcomes using historical patterns.",
+    "intro": "Estimate likely outcomes using historical patterns. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ai-ml-iot",
+    "uses": [
+      "Operational insights",
+      "Connected equipment",
+      "Decision support"
+    ],
+    "deliverables": [
+      "Data-readiness assessment",
+      "Evaluated pilot with agreed success criteria",
+      "Integration, monitoring and human review design"
+    ],
+    "detail": "For Predictive Analytics, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ai-ml-iot/natural-language-processing",
+    "title": "Natural Language Processing",
+    "headline": "Extract and organize meaning from business text.",
+    "intro": "Extract and organize meaning from business text. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ai-ml-iot",
+    "uses": [
+      "Operational insights",
+      "Connected equipment",
+      "Decision support"
+    ],
+    "deliverables": [
+      "Data-readiness assessment",
+      "Evaluated pilot with agreed success criteria",
+      "Integration, monitoring and human review design"
+    ],
+    "detail": "For Natural Language Processing, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ai-ml-iot/computer-vision",
+    "title": "Computer Vision",
+    "headline": "Interpret visual inputs for a defined operational task.",
+    "intro": "Interpret visual inputs for a defined operational task. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ai-ml-iot",
+    "uses": [
+      "Operational insights",
+      "Connected equipment",
+      "Decision support"
+    ],
+    "deliverables": [
+      "Data-readiness assessment",
+      "Evaluated pilot with agreed success criteria",
+      "Integration, monitoring and human review design"
+    ],
+    "detail": "For Computer Vision, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ai-ml-iot/recommendation-systems",
+    "title": "Recommendation Systems",
+    "headline": "Rank relevant options using available signals.",
+    "intro": "Rank relevant options using available signals. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ai-ml-iot",
+    "uses": [
+      "Operational insights",
+      "Connected equipment",
+      "Decision support"
+    ],
+    "deliverables": [
+      "Data-readiness assessment",
+      "Evaluated pilot with agreed success criteria",
+      "Integration, monitoring and human review design"
+    ],
+    "detail": "For Recommendation Systems, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ai-ml-iot/iot-integration",
+    "title": "IoT Integration",
+    "headline": "Connect device events to business applications.",
+    "intro": "Connect device events to business applications. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ai-ml-iot",
+    "uses": [
+      "Operational insights",
+      "Connected equipment",
+      "Decision support"
+    ],
+    "deliverables": [
+      "Data-readiness assessment",
+      "Evaluated pilot with agreed success criteria",
+      "Integration, monitoring and human review design"
+    ],
+    "detail": "For IoT Integration, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ai-ml-iot/real-time-insights",
+    "title": "Real-Time Insights",
+    "headline": "Surface timely information from operational streams.",
+    "intro": "Surface timely information from operational streams. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ai-ml-iot",
+    "uses": [
+      "Operational insights",
+      "Connected equipment",
+      "Decision support"
+    ],
+    "deliverables": [
+      "Data-readiness assessment",
+      "Evaluated pilot with agreed success criteria",
+      "Integration, monitoring and human review design"
+    ],
+    "detail": "For Real-Time Insights, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ecommerce-development",
+    "title": "eCommerce Development",
+    "headline": "Make buying easier, from discovery to delivery.",
+    "intro": "A storefront has to do more than look good. We connect catalog, checkout and operational workflows so customers can find what they need and your team can manage what happens next.",
+    "category": "Services",
+    "uses": [
+      "Online retail",
+      "B2B commerce",
+      "Commerce integrations"
+    ],
+    "deliverables": [
+      "Storefront and catalog structure",
+      "Checkout and operational integrations",
+      "Launch checks and merchandising handover"
+    ],
+    "links": [
+      {
+        "title": "WooCommerce",
+        "path": "services/ecommerce-development/woocommerce",
+        "description": "Flexible commerce built around WordPress."
+      },
+      {
+        "title": "Magento",
+        "path": "services/ecommerce-development/magento",
+        "description": "Structured commerce workflows for complex catalogs."
+      },
+      {
+        "title": "Shopify",
+        "path": "services/ecommerce-development/shopify",
+        "description": "Storefront experiences and integrations around Shopify."
+      },
+      {
+        "title": "BigCommerce",
+        "path": "services/ecommerce-development/bigcommerce",
+        "description": "Connected storefront and catalog implementations."
+      },
+      {
+        "title": "OpenCart",
+        "path": "services/ecommerce-development/opencart",
+        "description": "Focused store development and extensions."
+      },
+      {
+        "title": "Custom Commerce Development",
+        "path": "services/ecommerce-development/custom-commerce-development",
+        "description": "Buying workflows that need a purpose-built application."
+      }
+    ]
+  },
+  {
+    "path": "services/ecommerce-development/woocommerce",
+    "title": "WooCommerce",
+    "headline": "Flexible commerce built around WordPress.",
+    "intro": "Flexible commerce built around WordPress. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ecommerce-development",
+    "uses": [
+      "Online retail",
+      "B2B commerce",
+      "Commerce integrations"
+    ],
+    "deliverables": [
+      "Storefront and catalog structure",
+      "Checkout and operational integrations",
+      "Launch checks and merchandising handover"
+    ],
+    "detail": "For WooCommerce, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ecommerce-development/magento",
+    "title": "Magento",
+    "headline": "Structured commerce workflows for complex catalogs.",
+    "intro": "Structured commerce workflows for complex catalogs. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ecommerce-development",
+    "uses": [
+      "Online retail",
+      "B2B commerce",
+      "Commerce integrations"
+    ],
+    "deliverables": [
+      "Storefront and catalog structure",
+      "Checkout and operational integrations",
+      "Launch checks and merchandising handover"
+    ],
+    "detail": "For Magento, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ecommerce-development/shopify",
+    "title": "Shopify",
+    "headline": "Storefront experiences and integrations around Shopify.",
+    "intro": "Storefront experiences and integrations around Shopify. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ecommerce-development",
+    "uses": [
+      "Online retail",
+      "B2B commerce",
+      "Commerce integrations"
+    ],
+    "deliverables": [
+      "Storefront and catalog structure",
+      "Checkout and operational integrations",
+      "Launch checks and merchandising handover"
+    ],
+    "detail": "For Shopify, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ecommerce-development/bigcommerce",
+    "title": "BigCommerce",
+    "headline": "Connected storefront and catalog implementations.",
+    "intro": "Connected storefront and catalog implementations. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ecommerce-development",
+    "uses": [
+      "Online retail",
+      "B2B commerce",
+      "Commerce integrations"
+    ],
+    "deliverables": [
+      "Storefront and catalog structure",
+      "Checkout and operational integrations",
+      "Launch checks and merchandising handover"
+    ],
+    "detail": "For BigCommerce, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ecommerce-development/opencart",
+    "title": "OpenCart",
+    "headline": "Focused store development and extensions.",
+    "intro": "Focused store development and extensions. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ecommerce-development",
+    "uses": [
+      "Online retail",
+      "B2B commerce",
+      "Commerce integrations"
+    ],
+    "deliverables": [
+      "Storefront and catalog structure",
+      "Checkout and operational integrations",
+      "Launch checks and merchandising handover"
+    ],
+    "detail": "For OpenCart, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/ecommerce-development/custom-commerce-development",
+    "title": "Custom Commerce Development",
+    "headline": "Buying workflows that need a purpose-built application.",
+    "intro": "Buying workflows that need a purpose-built application. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/ecommerce-development",
+    "uses": [
+      "Online retail",
+      "B2B commerce",
+      "Commerce integrations"
+    ],
+    "deliverables": [
+      "Storefront and catalog structure",
+      "Checkout and operational integrations",
+      "Launch checks and merchandising handover"
+    ],
+    "detail": "For Custom Commerce Development, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/cms-development",
+    "title": "CMS Development",
+    "headline": "Give your content team room to work.",
+    "intro": "Publishing a page should not require a development ticket every time. We build manageable content structures, reusable page components and sensible publishing workflows.",
+    "category": "Services",
+    "uses": [
+      "Corporate websites",
+      "Editorial platforms",
+      "Content migrations"
+    ],
+    "deliverables": [
+      "Content model and page templates",
+      "Editor roles and publishing workflow",
+      "Migration checks and editor guidance"
+    ],
+    "links": [
+      {
+        "title": "WordPress Development",
+        "path": "services/cms-development/wordpress-development",
+        "description": "Editable websites with structured content and reusable templates."
+      },
+      {
+        "title": "Wix Development",
+        "path": "services/cms-development/wix-development",
+        "description": "Maintainable business websites within the Wix platform."
+      }
+    ]
+  },
+  {
+    "path": "services/cms-development/wordpress-development",
+    "title": "WordPress Development",
+    "headline": "Editable websites with structured content and reusable templates.",
+    "intro": "Editable websites with structured content and reusable templates. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/cms-development",
+    "uses": [
+      "Corporate websites",
+      "Editorial platforms",
+      "Content migrations"
+    ],
+    "deliverables": [
+      "Content model and page templates",
+      "Editor roles and publishing workflow",
+      "Migration checks and editor guidance"
+    ],
+    "detail": "For WordPress Development, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/cms-development/wix-development",
+    "title": "Wix Development",
+    "headline": "Maintainable business websites within the Wix platform.",
+    "intro": "Maintainable business websites within the Wix platform. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/cms-development",
+    "uses": [
+      "Corporate websites",
+      "Editorial platforms",
+      "Content migrations"
+    ],
+    "deliverables": [
+      "Content model and page templates",
+      "Editor roles and publishing workflow",
+      "Migration checks and editor guidance"
+    ],
+    "detail": "For Wix Development, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/digital-marketing",
+    "title": "Digital Marketing",
+    "headline": "Help the right people find you.",
+    "intro": "We connect the message, the landing page and the measurement. The aim is to understand which activity brings useful enquiries, then improve it through a steady cycle of testing.",
+    "category": "Services",
+    "uses": [
+      "Search visibility",
+      "Demand generation",
+      "Customer engagement"
+    ],
+    "deliverables": [
+      "Audience and channel plan",
+      "Campaign assets and landing-page recommendations",
+      "Measurement framework and review cadence"
+    ],
+    "links": [
+      {
+        "title": "SEO",
+        "path": "services/digital-marketing/seo",
+        "description": "Improve site structure, useful content and search discoverability."
+      },
+      {
+        "title": "PPC Management",
+        "path": "services/digital-marketing/ppc-management",
+        "description": "Plan paid campaigns around audience, intent and budget."
+      },
+      {
+        "title": "Social Media Marketing",
+        "path": "services/digital-marketing/social-media-marketing",
+        "description": "Build a consistent presence with relevant content."
+      },
+      {
+        "title": "Content Marketing",
+        "path": "services/digital-marketing/content-marketing",
+        "description": "Answer customer questions with useful, specific material."
+      },
+      {
+        "title": "Email Marketing",
+        "path": "services/digital-marketing/email-marketing",
+        "description": "Create timely messages for a permission-based audience."
+      }
+    ]
+  },
+  {
+    "path": "services/digital-marketing/seo",
+    "title": "SEO",
+    "headline": "Improve site structure, useful content and search discoverability.",
+    "intro": "Improve site structure, useful content and search discoverability. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/digital-marketing",
+    "uses": [
+      "Search visibility",
+      "Demand generation",
+      "Customer engagement"
+    ],
+    "deliverables": [
+      "Audience and channel plan",
+      "Campaign assets and landing-page recommendations",
+      "Measurement framework and review cadence"
+    ],
+    "detail": "For SEO, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/digital-marketing/ppc-management",
+    "title": "PPC Management",
+    "headline": "Plan paid campaigns around audience, intent and budget.",
+    "intro": "Plan paid campaigns around audience, intent and budget. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/digital-marketing",
+    "uses": [
+      "Search visibility",
+      "Demand generation",
+      "Customer engagement"
+    ],
+    "deliverables": [
+      "Audience and channel plan",
+      "Campaign assets and landing-page recommendations",
+      "Measurement framework and review cadence"
+    ],
+    "detail": "For PPC Management, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/digital-marketing/social-media-marketing",
+    "title": "Social Media Marketing",
+    "headline": "Build a consistent presence with relevant content.",
+    "intro": "Build a consistent presence with relevant content. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/digital-marketing",
+    "uses": [
+      "Search visibility",
+      "Demand generation",
+      "Customer engagement"
+    ],
+    "deliverables": [
+      "Audience and channel plan",
+      "Campaign assets and landing-page recommendations",
+      "Measurement framework and review cadence"
+    ],
+    "detail": "For Social Media Marketing, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/digital-marketing/content-marketing",
+    "title": "Content Marketing",
+    "headline": "Answer customer questions with useful, specific material.",
+    "intro": "Answer customer questions with useful, specific material. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/digital-marketing",
+    "uses": [
+      "Search visibility",
+      "Demand generation",
+      "Customer engagement"
+    ],
+    "deliverables": [
+      "Audience and channel plan",
+      "Campaign assets and landing-page recommendations",
+      "Measurement framework and review cadence"
+    ],
+    "detail": "For Content Marketing, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/digital-marketing/email-marketing",
+    "title": "Email Marketing",
+    "headline": "Create timely messages for a permission-based audience.",
+    "intro": "Create timely messages for a permission-based audience. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/digital-marketing",
+    "uses": [
+      "Search visibility",
+      "Demand generation",
+      "Customer engagement"
+    ],
+    "deliverables": [
+      "Audience and channel plan",
+      "Campaign assets and landing-page recommendations",
+      "Measurement framework and review cadence"
+    ],
+    "detail": "For Email Marketing, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/quality-assurance",
+    "title": "Quality Assurance",
+    "headline": "Release with a clearer view of risk.",
+    "intro": "Testing helps you make a release decision with evidence. We focus on the journeys that matter, the integrations that can fail and the changes most likely to affect your users.",
+    "category": "Services",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "links": [
+      {
+        "title": "Manual Testing",
+        "path": "services/quality-assurance/manual-testing",
+        "description": "Explore critical journeys and unexpected user behavior."
+      },
+      {
+        "title": "Automation Testing",
+        "path": "services/quality-assurance/automation-testing",
+        "description": "Repeat dependable checks across frequent releases."
+      },
+      {
+        "title": "Selenium",
+        "path": "services/quality-assurance/selenium",
+        "description": "Browser automation for suitable web test suites."
+      },
+      {
+        "title": "Cucumber",
+        "path": "services/quality-assurance/cucumber",
+        "description": "Readable scenarios that connect requirements and checks."
+      },
+      {
+        "title": "Appium",
+        "path": "services/quality-assurance/appium",
+        "description": "Automated checks for mobile application journeys."
+      },
+      {
+        "title": "Cypress",
+        "path": "services/quality-assurance/cypress",
+        "description": "Web application checks close to the development workflow."
+      },
+      {
+        "title": "Postman",
+        "path": "services/quality-assurance/postman",
+        "description": "API request validation and integration checks."
+      },
+      {
+        "title": "Apache JMeter",
+        "path": "services/quality-assurance/apache-jmeter",
+        "description": "Load scenarios for measuring application behavior."
+      },
+      {
+        "title": "Unit Testing",
+        "path": "services/quality-assurance/unit-testing",
+        "description": "Check focused pieces of business logic."
+      },
+      {
+        "title": "Integration Testing",
+        "path": "services/quality-assurance/integration-testing",
+        "description": "Verify how components and systems work together."
+      },
+      {
+        "title": "Functional Testing",
+        "path": "services/quality-assurance/functional-testing",
+        "description": "Confirm that features meet agreed requirements."
+      },
+      {
+        "title": "Performance Testing",
+        "path": "services/quality-assurance/performance-testing",
+        "description": "Measure response and capacity under defined workloads."
+      },
+      {
+        "title": "Regression Testing",
+        "path": "services/quality-assurance/regression-testing",
+        "description": "Check that changes preserve existing behavior."
+      },
+      {
+        "title": "Smoke Testing",
+        "path": "services/quality-assurance/smoke-testing",
+        "description": "Confirm that essential functions are available after a release."
+      },
+      {
+        "title": "White Box & Black Box Testing",
+        "path": "services/quality-assurance/white-box-black-box-testing",
+        "description": "Combine implementation-aware and user-facing test perspectives."
+      }
+    ]
+  },
+  {
+    "path": "services/quality-assurance/manual-testing",
+    "title": "Manual Testing",
+    "headline": "Explore critical journeys and unexpected user behavior.",
+    "intro": "Explore critical journeys and unexpected user behavior. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/quality-assurance",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "detail": "For Manual Testing, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/quality-assurance/automation-testing",
+    "title": "Automation Testing",
+    "headline": "Repeat dependable checks across frequent releases.",
+    "intro": "Repeat dependable checks across frequent releases. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/quality-assurance",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "detail": "For Automation Testing, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/quality-assurance/selenium",
+    "title": "Selenium",
+    "headline": "Browser automation for suitable web test suites.",
+    "intro": "Browser automation for suitable web test suites. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/quality-assurance",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "detail": "For Selenium, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/quality-assurance/cucumber",
+    "title": "Cucumber",
+    "headline": "Readable scenarios that connect requirements and checks.",
+    "intro": "Readable scenarios that connect requirements and checks. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/quality-assurance",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "detail": "For Cucumber, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/quality-assurance/appium",
+    "title": "Appium",
+    "headline": "Automated checks for mobile application journeys.",
+    "intro": "Automated checks for mobile application journeys. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/quality-assurance",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "detail": "For Appium, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/quality-assurance/cypress",
+    "title": "Cypress",
+    "headline": "Web application checks close to the development workflow.",
+    "intro": "Web application checks close to the development workflow. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/quality-assurance",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "detail": "For Cypress, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/quality-assurance/postman",
+    "title": "Postman",
+    "headline": "API request validation and integration checks.",
+    "intro": "API request validation and integration checks. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/quality-assurance",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "detail": "For Postman, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/quality-assurance/apache-jmeter",
+    "title": "Apache JMeter",
+    "headline": "Load scenarios for measuring application behavior.",
+    "intro": "Load scenarios for measuring application behavior. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/quality-assurance",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "detail": "For Apache JMeter, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/quality-assurance/unit-testing",
+    "title": "Unit Testing",
+    "headline": "Check focused pieces of business logic.",
+    "intro": "Check focused pieces of business logic. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/quality-assurance",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "detail": "For Unit Testing, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/quality-assurance/integration-testing",
+    "title": "Integration Testing",
+    "headline": "Verify how components and systems work together.",
+    "intro": "Verify how components and systems work together. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/quality-assurance",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "detail": "For Integration Testing, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/quality-assurance/functional-testing",
+    "title": "Functional Testing",
+    "headline": "Confirm that features meet agreed requirements.",
+    "intro": "Confirm that features meet agreed requirements. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/quality-assurance",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "detail": "For Functional Testing, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/quality-assurance/performance-testing",
+    "title": "Performance Testing",
+    "headline": "Measure response and capacity under defined workloads.",
+    "intro": "Measure response and capacity under defined workloads. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/quality-assurance",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "detail": "For Performance Testing, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/quality-assurance/regression-testing",
+    "title": "Regression Testing",
+    "headline": "Check that changes preserve existing behavior.",
+    "intro": "Check that changes preserve existing behavior. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/quality-assurance",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "detail": "For Regression Testing, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/quality-assurance/smoke-testing",
+    "title": "Smoke Testing",
+    "headline": "Confirm that essential functions are available after a release.",
+    "intro": "Confirm that essential functions are available after a release. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/quality-assurance",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "detail": "For Smoke Testing, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/quality-assurance/white-box-black-box-testing",
+    "title": "White Box & Black Box Testing",
+    "headline": "Combine implementation-aware and user-facing test perspectives.",
+    "intro": "Combine implementation-aware and user-facing test perspectives. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/quality-assurance",
+    "uses": [
+      "Release validation",
+      "Test automation",
+      "Performance assessment"
+    ],
+    "deliverables": [
+      "Risk-based test plan",
+      "Reproducible defect reports and automated checks",
+      "Release findings and remaining-risk summary"
+    ],
+    "detail": "For White Box & Black Box Testing, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/it-consultation",
+    "title": "IT Consultation",
+    "headline": "Decide what to build before you commit.",
+    "intro": "When priorities compete and systems have grown over time, an outside view can help. We work through the constraints, compare sensible options and turn the decision into a practical plan.",
+    "category": "Services",
+    "uses": [
+      "Technology roadmaps",
+      "Architecture reviews",
+      "Modernization planning"
+    ],
+    "deliverables": [
+      "Current-state assessment",
+      "Options with trade-offs",
+      "Prioritized roadmap and delivery scope"
+    ],
+    "links": [
+      {
+        "title": "Technology Strategy",
+        "path": "services/it-consultation/technology-strategy",
+        "description": "Connect technology priorities to business objectives."
+      },
+      {
+        "title": "Architecture Review",
+        "path": "services/it-consultation/architecture-review",
+        "description": "Examine dependencies, risks and maintainability."
+      },
+      {
+        "title": "Modernization Roadmap",
+        "path": "services/it-consultation/modernization-roadmap",
+        "description": "Sequence change around business continuity."
+      }
+    ]
+  },
+  {
+    "path": "services/it-consultation/technology-strategy",
+    "title": "Technology Strategy",
+    "headline": "Connect technology priorities to business objectives.",
+    "intro": "Connect technology priorities to business objectives. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/it-consultation",
+    "uses": [
+      "Technology roadmaps",
+      "Architecture reviews",
+      "Modernization planning"
+    ],
+    "deliverables": [
+      "Current-state assessment",
+      "Options with trade-offs",
+      "Prioritized roadmap and delivery scope"
+    ],
+    "detail": "For Technology Strategy, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/it-consultation/architecture-review",
+    "title": "Architecture Review",
+    "headline": "Examine dependencies, risks and maintainability.",
+    "intro": "Examine dependencies, risks and maintainability. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/it-consultation",
+    "uses": [
+      "Technology roadmaps",
+      "Architecture reviews",
+      "Modernization planning"
+    ],
+    "deliverables": [
+      "Current-state assessment",
+      "Options with trade-offs",
+      "Prioritized roadmap and delivery scope"
+    ],
+    "detail": "For Architecture Review, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/it-consultation/modernization-roadmap",
+    "title": "Modernization Roadmap",
+    "headline": "Sequence change around business continuity.",
+    "intro": "Sequence change around business continuity. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/it-consultation",
+    "uses": [
+      "Technology roadmaps",
+      "Architecture reviews",
+      "Modernization planning"
+    ],
+    "deliverables": [
+      "Current-state assessment",
+      "Options with trade-offs",
+      "Prioritized roadmap and delivery scope"
+    ],
+    "detail": "For Modernization Roadmap, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/data-engineering",
+    "title": "Data Engineering",
+    "headline": "Reliable data starts before the dashboard.",
+    "intro": "Useful reporting depends on data you can trace and trust. We build pipelines and models that bring scattered sources together, with quality checks that make problems visible.",
+    "category": "Services",
+    "uses": [
+      "Data integration",
+      "Analytics foundations",
+      "Data quality"
+    ],
+    "deliverables": [
+      "Source inventory and mapping",
+      "Pipelines with validation and monitoring",
+      "Data models and ownership documentation"
+    ],
+    "links": [
+      {
+        "title": "Data Pipelines",
+        "path": "services/data-engineering/data-pipelines",
+        "description": "Move and transform data through observable workflows."
+      },
+      {
+        "title": "Data Modeling",
+        "path": "services/data-engineering/data-modeling",
+        "description": "Create consistent structures for reporting and application use."
+      },
+      {
+        "title": "Data Quality",
+        "path": "services/data-engineering/data-quality",
+        "description": "Identify missing, duplicated and inconsistent records."
+      }
+    ]
+  },
+  {
+    "path": "services/data-engineering/data-pipelines",
+    "title": "Data Pipelines",
+    "headline": "Move and transform data through observable workflows.",
+    "intro": "Move and transform data through observable workflows. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/data-engineering",
+    "uses": [
+      "Data integration",
+      "Analytics foundations",
+      "Data quality"
+    ],
+    "deliverables": [
+      "Source inventory and mapping",
+      "Pipelines with validation and monitoring",
+      "Data models and ownership documentation"
+    ],
+    "detail": "For Data Pipelines, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/data-engineering/data-modeling",
+    "title": "Data Modeling",
+    "headline": "Create consistent structures for reporting and application use.",
+    "intro": "Create consistent structures for reporting and application use. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/data-engineering",
+    "uses": [
+      "Data integration",
+      "Analytics foundations",
+      "Data quality"
+    ],
+    "deliverables": [
+      "Source inventory and mapping",
+      "Pipelines with validation and monitoring",
+      "Data models and ownership documentation"
+    ],
+    "detail": "For Data Modeling, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/data-engineering/data-quality",
+    "title": "Data Quality",
+    "headline": "Identify missing, duplicated and inconsistent records.",
+    "intro": "Identify missing, duplicated and inconsistent records. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/data-engineering",
+    "uses": [
+      "Data integration",
+      "Analytics foundations",
+      "Data quality"
+    ],
+    "deliverables": [
+      "Source inventory and mapping",
+      "Pipelines with validation and monitoring",
+      "Data models and ownership documentation"
+    ],
+    "detail": "For Data Quality, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/generative-ai",
+    "title": "Generative AI",
+    "headline": "Build assistants that know their boundaries.",
+    "intro": "A useful AI feature needs context, a clear task and a way to check its output. We design assistants and generation workflows with review steps and access controls suited to the business process.",
+    "category": "Services",
+    "uses": [
+      "Knowledge assistants",
+      "Content workflows",
+      "Developer assistance"
+    ],
+    "deliverables": [
+      "Task definition and evaluation examples",
+      "Prototype connected to approved sources",
+      "Review controls and operational guidance"
+    ],
+    "links": [
+      {
+        "title": "AI Content Generation",
+        "path": "services/generative-ai/ai-content-generation",
+        "description": "Draft content with source context and editorial review."
+      },
+      {
+        "title": "Intelligent Chatbots",
+        "path": "services/generative-ai/intelligent-chatbots",
+        "description": "Answer questions and guide users through supported actions."
+      },
+      {
+        "title": "Automated Code & Design Creation",
+        "path": "services/generative-ai/automated-code-design-creation",
+        "description": "Assist creation workflows with human review and validation."
+      }
+    ]
+  },
+  {
+    "path": "services/generative-ai/ai-content-generation",
+    "title": "AI Content Generation",
+    "headline": "Draft content with source context and editorial review.",
+    "intro": "Draft content with source context and editorial review. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/generative-ai",
+    "uses": [
+      "Knowledge assistants",
+      "Content workflows",
+      "Developer assistance"
+    ],
+    "deliverables": [
+      "Task definition and evaluation examples",
+      "Prototype connected to approved sources",
+      "Review controls and operational guidance"
+    ],
+    "detail": "For AI Content Generation, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/generative-ai/intelligent-chatbots",
+    "title": "Intelligent Chatbots",
+    "headline": "Answer questions and guide users through supported actions.",
+    "intro": "Answer questions and guide users through supported actions. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/generative-ai",
+    "uses": [
+      "Knowledge assistants",
+      "Content workflows",
+      "Developer assistance"
+    ],
+    "deliverables": [
+      "Task definition and evaluation examples",
+      "Prototype connected to approved sources",
+      "Review controls and operational guidance"
+    ],
+    "detail": "For Intelligent Chatbots, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/generative-ai/automated-code-design-creation",
+    "title": "Automated Code & Design Creation",
+    "headline": "Assist creation workflows with human review and validation.",
+    "intro": "Assist creation workflows with human review and validation. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/generative-ai",
+    "uses": [
+      "Knowledge assistants",
+      "Content workflows",
+      "Developer assistance"
+    ],
+    "deliverables": [
+      "Task definition and evaluation examples",
+      "Prototype connected to approved sources",
+      "Review controls and operational guidance"
+    ],
+    "detail": "For Automated Code & Design Creation, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/cloud-solutions",
+    "title": "Cloud Solutions",
+    "headline": "A cloud foundation your team can operate.",
+    "intro": "Moving to the cloud is a set of operational decisions. We help you plan environments, deployment, access and recovery around what your applications need and what your team can support.",
+    "category": "Services",
+    "uses": [
+      "Cloud migration",
+      "Delivery automation",
+      "Infrastructure operations"
+    ],
+    "deliverables": [
+      "Environment and deployment design",
+      "Infrastructure configuration and access model",
+      "Monitoring, recovery and operational runbooks"
+    ],
+    "links": [
+      {
+        "title": "Azure",
+        "path": "services/cloud-solutions/azure",
+        "description": "Design and implement workloads on Microsoft Azure."
+      },
+      {
+        "title": "AWS",
+        "path": "services/cloud-solutions/aws",
+        "description": "Plan and build application infrastructure on AWS."
+      },
+      {
+        "title": "Google Cloud",
+        "path": "services/cloud-solutions/google-cloud",
+        "description": "Implement workloads and data services on Google Cloud."
+      },
+      {
+        "title": "Kubernetes",
+        "path": "services/cloud-solutions/kubernetes",
+        "description": "Manage container workloads where orchestration is justified."
+      },
+      {
+        "title": "Serverless",
+        "path": "services/cloud-solutions/serverless",
+        "description": "Run event-driven workloads with managed execution."
+      },
+      {
+        "title": "Infrastructure as Code",
+        "path": "services/cloud-solutions/infrastructure-as-code",
+        "description": "Make infrastructure changes versioned and repeatable."
+      }
+    ]
+  },
+  {
+    "path": "services/cloud-solutions/azure",
+    "title": "Azure",
+    "headline": "Design and implement workloads on Microsoft Azure.",
+    "intro": "Design and implement workloads on Microsoft Azure. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/cloud-solutions",
+    "uses": [
+      "Cloud migration",
+      "Delivery automation",
+      "Infrastructure operations"
+    ],
+    "deliverables": [
+      "Environment and deployment design",
+      "Infrastructure configuration and access model",
+      "Monitoring, recovery and operational runbooks"
+    ],
+    "detail": "For Azure, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/cloud-solutions/aws",
+    "title": "AWS",
+    "headline": "Plan and build application infrastructure on AWS.",
+    "intro": "Plan and build application infrastructure on AWS. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/cloud-solutions",
+    "uses": [
+      "Cloud migration",
+      "Delivery automation",
+      "Infrastructure operations"
+    ],
+    "deliverables": [
+      "Environment and deployment design",
+      "Infrastructure configuration and access model",
+      "Monitoring, recovery and operational runbooks"
+    ],
+    "detail": "For AWS, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/cloud-solutions/google-cloud",
+    "title": "Google Cloud",
+    "headline": "Implement workloads and data services on Google Cloud.",
+    "intro": "Implement workloads and data services on Google Cloud. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/cloud-solutions",
+    "uses": [
+      "Cloud migration",
+      "Delivery automation",
+      "Infrastructure operations"
+    ],
+    "deliverables": [
+      "Environment and deployment design",
+      "Infrastructure configuration and access model",
+      "Monitoring, recovery and operational runbooks"
+    ],
+    "detail": "For Google Cloud, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/cloud-solutions/kubernetes",
+    "title": "Kubernetes",
+    "headline": "Manage container workloads where orchestration is justified.",
+    "intro": "Manage container workloads where orchestration is justified. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/cloud-solutions",
+    "uses": [
+      "Cloud migration",
+      "Delivery automation",
+      "Infrastructure operations"
+    ],
+    "deliverables": [
+      "Environment and deployment design",
+      "Infrastructure configuration and access model",
+      "Monitoring, recovery and operational runbooks"
+    ],
+    "detail": "For Kubernetes, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/cloud-solutions/serverless",
+    "title": "Serverless",
+    "headline": "Run event-driven workloads with managed execution.",
+    "intro": "Run event-driven workloads with managed execution. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/cloud-solutions",
+    "uses": [
+      "Cloud migration",
+      "Delivery automation",
+      "Infrastructure operations"
+    ],
+    "deliverables": [
+      "Environment and deployment design",
+      "Infrastructure configuration and access model",
+      "Monitoring, recovery and operational runbooks"
+    ],
+    "detail": "For Serverless, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services/cloud-solutions/infrastructure-as-code",
+    "title": "Infrastructure as Code",
+    "headline": "Make infrastructure changes versioned and repeatable.",
+    "intro": "Make infrastructure changes versioned and repeatable. We begin with your existing systems and the people who use them, then agree on the scope and the evidence needed to judge the result.",
+    "category": "Technology",
+    "parent": "services/cloud-solutions",
+    "uses": [
+      "Cloud migration",
+      "Delivery automation",
+      "Infrastructure operations"
+    ],
+    "deliverables": [
+      "Environment and deployment design",
+      "Infrastructure configuration and access model",
+      "Monitoring, recovery and operational runbooks"
+    ],
+    "detail": "For Infrastructure as Code, discovery covers the current setup, integration points and the parts of the workflow that cause friction. The implementation is reviewed in small increments so your team can test real scenarios before release."
+  },
+  {
+    "path": "services",
+    "title": "Services",
+    "headline": "The right expertise for the work ahead.",
+    "intro": "From a first product to a complex modernization, find the support that fits your next step. Explore our services, then talk through the scope with us.",
+    "category": "Explore",
+    "links": [
+      {
+        "title": "Custom Web Development",
+        "path": "services/custom-web-development",
+        "description": "Your website is often where a customer first meets your business. Your internal applications are where the work gets done. We design and build both, with attention to the details that make them useful every day."
+      },
+      {
+        "title": "Microsoft Services",
+        "path": "services/microsoft-services",
+        "description": "Disconnected applications can turn a simple task into a chain of spreadsheets and follow-ups. We help you build, connect and maintain Microsoft-based systems around the processes your business actually uses."
+      },
+      {
+        "title": "Mobile App Development",
+        "path": "services/mobile-app-development",
+        "description": "A good mobile app makes the next action obvious. We build experiences around the people using them, the devices they carry and the conditions they work in, including limited connectivity."
+      },
+      {
+        "title": "UI/UX Design",
+        "path": "services/ui-ux-design",
+        "description": "We look at what people need to do, where they hesitate and what gets in their way. Then we turn those findings into interfaces that feel clear from the first interaction."
+      },
+      {
+        "title": "Full Stack Development",
+        "path": "services/full-stack-development",
+        "description": "The interface, business logic and data layer need to agree with each other. We bring them together so your team can build features without creating avoidable complexity behind the scenes."
+      },
+      {
+        "title": "AI/ML & IoT",
+        "path": "services/ai-ml-iot",
+        "description": "We start with a decision or task that needs to improve. From there, we assess the data, establish a baseline and test whether a model or connected-device solution can make a useful difference."
+      },
+      {
+        "title": "eCommerce Development",
+        "path": "services/ecommerce-development",
+        "description": "A storefront has to do more than look good. We connect catalog, checkout and operational workflows so customers can find what they need and your team can manage what happens next."
+      },
+      {
+        "title": "CMS Development",
+        "path": "services/cms-development",
+        "description": "Publishing a page should not require a development ticket every time. We build manageable content structures, reusable page components and sensible publishing workflows."
+      },
+      {
+        "title": "Digital Marketing",
+        "path": "services/digital-marketing",
+        "description": "We connect the message, the landing page and the measurement. The aim is to understand which activity brings useful enquiries, then improve it through a steady cycle of testing."
+      },
+      {
+        "title": "Quality Assurance",
+        "path": "services/quality-assurance",
+        "description": "Testing helps you make a release decision with evidence. We focus on the journeys that matter, the integrations that can fail and the changes most likely to affect your users."
+      },
+      {
+        "title": "IT Consultation",
+        "path": "services/it-consultation",
+        "description": "When priorities compete and systems have grown over time, an outside view can help. We work through the constraints, compare sensible options and turn the decision into a practical plan."
+      },
+      {
+        "title": "Data Engineering",
+        "path": "services/data-engineering",
+        "description": "Useful reporting depends on data you can trace and trust. We build pipelines and models that bring scattered sources together, with quality checks that make problems visible."
+      },
+      {
+        "title": "Generative AI",
+        "path": "services/generative-ai",
+        "description": "A useful AI feature needs context, a clear task and a way to check its output. We design assistants and generation workflows with review steps and access controls suited to the business process."
+      },
+      {
+        "title": "Cloud Solutions",
+        "path": "services/cloud-solutions",
+        "description": "Moving to the cloud is a set of operational decisions. We help you plan environments, deployment, access and recovery around what your applications need and what your team can support."
+      }
+    ]
+  },
+  {
+    "path": "about",
+    "title": "About Tesserova",
+    "headline": "Curious by nature. Practical in how we build.",
+    "intro": "Tesserova brings together strategy, design and engineering to help businesses work through technology change. We care about what a system makes possible for the people using it.",
+    "category": "Company",
+    "detail": "Our name draws on the tesseract, an idea that challenges familiar dimensions, and the nova, a moment of new possibility. That inspiration shapes our identity. In our work, it means looking beyond the first answer, asking careful questions and building with a clear purpose.",
+    "uses": [
+      "Explore the real problem",
+      "Build with care",
+      "Improve through feedback"
+    ],
+    "deliverables": [
+      "Clear scope and shared priorities",
+      "Regular reviews with the people doing the work",
+      "Documentation that helps your team take ownership"
+    ]
+  },
+  {
+    "path": "who-we-are",
+    "title": "Who We Are",
+    "headline": "People who connect the details.",
+    "intro": "Good software takes more than individual expertise. It needs designers, engineers and business stakeholders to understand each other and make decisions together.",
+    "category": "Company",
+    "detail": "We bring a collaborative approach to each engagement. We ask how work happens today, where information gets lost and what a better day would look like for your users. Those conversations shape the architecture, interface and delivery plan.",
+    "uses": [
+      "Business context",
+      "Thoughtful design",
+      "Responsible engineering"
+    ]
+  },
+  {
+    "path": "what-we-do",
+    "title": "What We Do",
+    "headline": "Turn an ambition into a working system.",
+    "intro": "We help you define the opportunity, build the product, connect it to your business and improve it over time. Each stage has a clear purpose and a practical next step.",
+    "category": "Company",
+    "links": [
+      {
+        "title": "Custom Web Development",
+        "path": "services/custom-web-development",
+        "description": "Web applications that fit the way you work."
+      },
+      {
+        "title": "Microsoft Services",
+        "path": "services/microsoft-services",
+        "description": "Make your Microsoft systems work together."
+      },
+      {
+        "title": "Mobile App Development",
+        "path": "services/mobile-app-development",
+        "description": "Useful in the office. Dependable in the field."
+      },
+      {
+        "title": "UI/UX Design",
+        "path": "services/ui-ux-design",
+        "description": "Make the complicated feel straightforward."
+      },
+      {
+        "title": "Full Stack Development",
+        "path": "services/full-stack-development",
+        "description": "One product. A connected engineering approach."
+      },
+      {
+        "title": "AI/ML & IoT",
+        "path": "services/ai-ml-iot",
+        "description": "Put your data to work on a real problem."
+      },
+      {
+        "title": "eCommerce Development",
+        "path": "services/ecommerce-development",
+        "description": "Make buying easier, from discovery to delivery."
+      },
+      {
+        "title": "CMS Development",
+        "path": "services/cms-development",
+        "description": "Give your content team room to work."
+      },
+      {
+        "title": "Digital Marketing",
+        "path": "services/digital-marketing",
+        "description": "Help the right people find you."
+      },
+      {
+        "title": "Quality Assurance",
+        "path": "services/quality-assurance",
+        "description": "Release with a clearer view of risk."
+      },
+      {
+        "title": "IT Consultation",
+        "path": "services/it-consultation",
+        "description": "Decide what to build before you commit."
+      },
+      {
+        "title": "Data Engineering",
+        "path": "services/data-engineering",
+        "description": "Reliable data starts before the dashboard."
+      },
+      {
+        "title": "Generative AI",
+        "path": "services/generative-ai",
+        "description": "Build assistants that know their boundaries."
+      },
+      {
+        "title": "Cloud Solutions",
+        "path": "services/cloud-solutions",
+        "description": "A cloud foundation your team can operate."
+      }
+    ]
+  },
+  {
+    "path": "mission",
+    "title": "Mission & Vision",
+    "headline": "More useful technology. Fewer barriers to progress.",
+    "intro": "Our mission is to help businesses turn complex technology challenges into systems that are easier to use, operate and evolve.",
+    "category": "Company",
+    "detail": "Our vision is a future where technology supports the way people want to work. We aim to make connections between systems clearer, decisions better informed and digital experiences more accessible.",
+    "uses": [
+      "Ask before assuming",
+      "Make trade-offs visible",
+      "Build for change"
+    ],
+    "deliverables": [
+      "Solutions tied to a defined business need",
+      "Maintainable systems with clear ownership",
+      "Steady improvement after the first release"
+    ]
+  },
+  {
+    "path": "team",
+    "title": "Our Teams",
+    "headline": "Different perspectives. A shared direction.",
+    "intro": "The team identities in our approach reflect different kinds of work, from complex architecture to emerging technology. Each contributes to a connected delivery process.",
+    "category": "Company",
+    "cards": [
+      {
+        "title": "Blackhole",
+        "description": "Complex architecture. Work through dependencies and turn difficult requirements into a coherent system."
+      },
+      {
+        "title": "Whitehole",
+        "description": "New products and integrations. Explore new opportunities and connect ideas to a practical implementation."
+      },
+      {
+        "title": "Wormhole",
+        "description": "Migration and integration. Plan the movement of data and workflows between systems with careful validation."
+      },
+      {
+        "title": "Galaxy",
+        "description": "Connected ecosystems. Bring applications, data and experiences together across a business."
+      },
+      {
+        "title": "Supernova",
+        "description": "Emerging technology. Test new approaches through focused experiments before committing to wider adoption."
+      }
+    ],
+    "detail": "The team for an engagement is shaped by its scope. We agree on roles, responsibilities and a review cadence at the start, so you know who is doing the work and how decisions will be made."
+  },
+  {
+    "path": "industries/transportation",
+    "title": "Transportation",
+    "headline": "Keep operations moving with connected information.",
+    "intro": "When dispatch, drivers and customers work from different information, small delays spread. We help connect the workflows around a trip, shipment or service visit.",
+    "category": "Industries",
+    "image": "/transportation-hd.webp",
+    "uses": [
+      "Dispatch and scheduling",
+      "Driver and field applications",
+      "Shipment visibility"
+    ],
+    "deliverables": [
+      "Workflow and integration assessment",
+      "User journeys with exception handling",
+      "Implementation and operational handover"
+    ],
+    "detail": "We agree on the data, access and operational requirements with your stakeholders before implementation. Any regulatory obligations or external reviews need to be established for the specific market and use case."
+  },
+  {
+    "path": "industries/healthcare",
+    "title": "Healthcare",
+    "headline": "Design around the people delivering and receiving care.",
+    "intro": "Healthcare software has to fit demanding workflows. We focus on clear interfaces, appropriate access and reliable connections between the systems care teams use.",
+    "category": "Industries",
+    "image": "/healthcare-hd.webp",
+    "uses": [
+      "Patient-facing experiences",
+      "Care-team workflows",
+      "System interoperability"
+    ],
+    "deliverables": [
+      "Workflow and integration assessment",
+      "User journeys with exception handling",
+      "Implementation and operational handover"
+    ],
+    "detail": "We agree on the data, access and operational requirements with your stakeholders before implementation. Any regulatory obligations or external reviews need to be established for the specific market and use case."
+  },
+  {
+    "path": "industries/fintech",
+    "title": "Fintech",
+    "headline": "Build confidence into every financial interaction.",
+    "intro": "Financial workflows need clear records, considered access and predictable behavior. We help design applications that make complex transactions understandable and easier to operate.",
+    "category": "Industries",
+    "image": "/fintech-hd.webp",
+    "uses": [
+      "Customer onboarding",
+      "Payment and account integrations",
+      "Operational reporting"
+    ],
+    "deliverables": [
+      "Workflow and integration assessment",
+      "User journeys with exception handling",
+      "Implementation and operational handover"
+    ],
+    "detail": "We agree on the data, access and operational requirements with your stakeholders before implementation. Any regulatory obligations or external reviews need to be established for the specific market and use case."
+  },
+  {
+    "path": "industries",
+    "title": "Industries",
+    "headline": "Technology grounded in how your industry works.",
+    "intro": "Explore the workflows we can help connect across transportation, healthcare and financial technology.",
+    "category": "Explore",
+    "links": [
+      {
+        "title": "Transportation",
+        "path": "industries/transportation",
+        "description": "When dispatch, drivers and customers work from different information, small delays spread. We help connect the workflows around a trip, shipment or service visit."
+      },
+      {
+        "title": "Healthcare",
+        "path": "industries/healthcare",
+        "description": "Healthcare software has to fit demanding workflows. We focus on clear interfaces, appropriate access and reliable connections between the systems care teams use."
+      },
+      {
+        "title": "Fintech",
+        "path": "industries/fintech",
+        "description": "Financial workflows need clear records, considered access and predictable behavior. We help design applications that make complex transactions understandable and easier to operate."
+      }
+    ]
+  },
+  {
+    "path": "hire/net",
+    "title": "Hire .NET Developers",
+    "headline": "Extend your team with .NET expertise.",
+    "intro": "Bring focused support to enterprise applications and service integrations. We agree on the role, responsibilities and delivery expectations before the engagement begins.",
+    "category": "Dedicated Teams",
+    "uses": [
+      "A defined project",
+      "An ongoing product backlog",
+      "Support for an existing team"
+    ],
+    "deliverables": [
+      "Agreed responsibilities and working hours",
+      "Shared backlog and regular progress reviews",
+      "Code, test evidence and documentation"
+    ],
+    "detail": "Start with the skills you need and the work you want to move forward. We discuss your stack, review process and team setup, then shape an engagement around those requirements. Availability and commercial terms are confirmed during scoping."
+  },
+  {
+    "path": "hire/java",
+    "title": "Hire Java Developers",
+    "headline": "Extend your team with Java expertise.",
+    "intro": "Bring focused support to business services and established enterprise systems. We agree on the role, responsibilities and delivery expectations before the engagement begins.",
+    "category": "Dedicated Teams",
+    "uses": [
+      "A defined project",
+      "An ongoing product backlog",
+      "Support for an existing team"
+    ],
+    "deliverables": [
+      "Agreed responsibilities and working hours",
+      "Shared backlog and regular progress reviews",
+      "Code, test evidence and documentation"
+    ],
+    "detail": "Start with the skills you need and the work you want to move forward. We discuss your stack, review process and team setup, then shape an engagement around those requirements. Availability and commercial terms are confirmed during scoping."
+  },
+  {
+    "path": "hire/ruby-on-rails",
+    "title": "Hire Ruby on Rails Developers",
+    "headline": "Extend your team with Ruby on Rails expertise.",
+    "intro": "Bring focused support to web products and data-driven business workflows. We agree on the role, responsibilities and delivery expectations before the engagement begins.",
+    "category": "Dedicated Teams",
+    "uses": [
+      "A defined project",
+      "An ongoing product backlog",
+      "Support for an existing team"
+    ],
+    "deliverables": [
+      "Agreed responsibilities and working hours",
+      "Shared backlog and regular progress reviews",
+      "Code, test evidence and documentation"
+    ],
+    "detail": "Start with the skills you need and the work you want to move forward. We discuss your stack, review process and team setup, then shape an engagement around those requirements. Availability and commercial terms are confirmed during scoping."
+  },
+  {
+    "path": "hire/php",
+    "title": "Hire PHP Developers",
+    "headline": "Extend your team with PHP expertise.",
+    "intro": "Bring focused support to web applications and existing PHP platforms. We agree on the role, responsibilities and delivery expectations before the engagement begins.",
+    "category": "Dedicated Teams",
+    "uses": [
+      "A defined project",
+      "An ongoing product backlog",
+      "Support for an existing team"
+    ],
+    "deliverables": [
+      "Agreed responsibilities and working hours",
+      "Shared backlog and regular progress reviews",
+      "Code, test evidence and documentation"
+    ],
+    "detail": "Start with the skills you need and the work you want to move forward. We discuss your stack, review process and team setup, then shape an engagement around those requirements. Availability and commercial terms are confirmed during scoping."
+  },
+  {
+    "path": "hire/mern",
+    "title": "Hire MERN Developers",
+    "headline": "Extend your team with MERN expertise.",
+    "intro": "Bring focused support to React interfaces and Node.js application services. We agree on the role, responsibilities and delivery expectations before the engagement begins.",
+    "category": "Dedicated Teams",
+    "uses": [
+      "A defined project",
+      "An ongoing product backlog",
+      "Support for an existing team"
+    ],
+    "deliverables": [
+      "Agreed responsibilities and working hours",
+      "Shared backlog and regular progress reviews",
+      "Code, test evidence and documentation"
+    ],
+    "detail": "Start with the skills you need and the work you want to move forward. We discuss your stack, review process and team setup, then shape an engagement around those requirements. Availability and commercial terms are confirmed during scoping."
+  },
+  {
+    "path": "hire/mean",
+    "title": "Hire MEAN Developers",
+    "headline": "Extend your team with MEAN expertise.",
+    "intro": "Bring focused support to Angular applications and Node.js back ends. We agree on the role, responsibilities and delivery expectations before the engagement begins.",
+    "category": "Dedicated Teams",
+    "uses": [
+      "A defined project",
+      "An ongoing product backlog",
+      "Support for an existing team"
+    ],
+    "deliverables": [
+      "Agreed responsibilities and working hours",
+      "Shared backlog and regular progress reviews",
+      "Code, test evidence and documentation"
+    ],
+    "detail": "Start with the skills you need and the work you want to move forward. We discuss your stack, review process and team setup, then shape an engagement around those requirements. Availability and commercial terms are confirmed during scoping."
+  },
+  {
+    "path": "hire/qa",
+    "title": "Hire QA Engineers",
+    "headline": "Extend your team with QA expertise.",
+    "intro": "Bring focused support to release validation and test automation. We agree on the role, responsibilities and delivery expectations before the engagement begins.",
+    "category": "Dedicated Teams",
+    "uses": [
+      "A defined project",
+      "An ongoing product backlog",
+      "Support for an existing team"
+    ],
+    "deliverables": [
+      "Agreed responsibilities and working hours",
+      "Shared backlog and regular progress reviews",
+      "Code, test evidence and documentation"
+    ],
+    "detail": "Start with the skills you need and the work you want to move forward. We discuss your stack, review process and team setup, then shape an engagement around those requirements. Availability and commercial terms are confirmed during scoping."
+  },
+  {
+    "path": "hire",
+    "title": "Hire Dedicated Developers",
+    "headline": "Add the expertise your team needs.",
+    "intro": "Keep ownership of your product while bringing in focused engineering or quality assurance support. Choose a discipline to explore how an engagement can work.",
+    "category": "Explore",
+    "links": [
+      {
+        "title": "Hire .NET Developers",
+        "path": "hire/net",
+        "description": "Bring focused support to enterprise applications and service integrations. We agree on the role, responsibilities and delivery expectations before the engagement begins."
+      },
+      {
+        "title": "Hire Java Developers",
+        "path": "hire/java",
+        "description": "Bring focused support to business services and established enterprise systems. We agree on the role, responsibilities and delivery expectations before the engagement begins."
+      },
+      {
+        "title": "Hire Ruby on Rails Developers",
+        "path": "hire/ruby-on-rails",
+        "description": "Bring focused support to web products and data-driven business workflows. We agree on the role, responsibilities and delivery expectations before the engagement begins."
+      },
+      {
+        "title": "Hire PHP Developers",
+        "path": "hire/php",
+        "description": "Bring focused support to web applications and existing PHP platforms. We agree on the role, responsibilities and delivery expectations before the engagement begins."
+      },
+      {
+        "title": "Hire MERN Developers",
+        "path": "hire/mern",
+        "description": "Bring focused support to React interfaces and Node.js application services. We agree on the role, responsibilities and delivery expectations before the engagement begins."
+      },
+      {
+        "title": "Hire MEAN Developers",
+        "path": "hire/mean",
+        "description": "Bring focused support to Angular applications and Node.js back ends. We agree on the role, responsibilities and delivery expectations before the engagement begins."
+      },
+      {
+        "title": "Hire QA Engineers",
+        "path": "hire/qa",
+        "description": "Bring focused support to release validation and test automation. We agree on the role, responsibilities and delivery expectations before the engagement begins."
+      }
+    ]
+  },
+  {
+    "path": "process",
+    "title": "Our Process",
+    "headline": "A clear path from the first conversation to delivery.",
+    "intro": "Every project has its own constraints. Our process creates space to understand them, test assumptions and make progress visible.",
+    "category": "Resources",
+    "cards": [
+      {
+        "title": "01 / Discover",
+        "description": "Understand users, existing systems and the business problem. Agree what success needs to look like."
+      },
+      {
+        "title": "02 / Plan",
+        "description": "Break the work into priorities. Establish architecture, dependencies and a reviewable delivery plan."
+      },
+      {
+        "title": "03 / Build",
+        "description": "Design and implement in increments. Review working software and adjust with evidence."
+      },
+      {
+        "title": "04 / Integrate",
+        "description": "Test the connections, validate data and prepare people for the rollout."
+      },
+      {
+        "title": "05 / Improve",
+        "description": "Review actual usage, resolve issues and prioritize what should happen next."
+      }
+    ]
+  },
+  {
+    "path": "technology-stack",
+    "title": "Technology Stack",
+    "headline": "Five layers. One connected foundation.",
+    "intro": "A useful architecture connects infrastructure, data, applications, intelligence and experience. We choose the details around your requirements and existing investments.",
+    "category": "Resources",
+    "cards": [
+      {
+        "title": "Infrastructure",
+        "description": "Cloud environments, deployment, access and operational foundations."
+      },
+      {
+        "title": "Data",
+        "description": "Pipelines, models and quality checks that make information usable."
+      },
+      {
+        "title": "Application",
+        "description": "Business logic, integrations and the systems your teams rely on."
+      },
+      {
+        "title": "Intelligence",
+        "description": "Analytics, automation and AI tied to a defined task."
+      },
+      {
+        "title": "Experience",
+        "description": "Web, mobile and portal interfaces built around user journeys."
+      }
+    ]
+  },
+  {
+    "path": "platform",
+    "title": "Universal Migration Platform",
+    "headline": "Move your data with a clear plan and visible checks.",
+    "intro": "Explore the Tesserova migration approach: understand the source, map the fields, review exceptions and validate the result before cutover.",
+    "category": "Platform",
+    "uses": [
+      "Source assessment",
+      "Mapping and transformation",
+      "Validation and reconciliation"
+    ],
+    "deliverables": [
+      "Source and destination inventory",
+      "Reviewed mapping rules",
+      "Cutover and rollback plan"
+    ],
+    "detail": "The interactive example uses sample fields to illustrate a mapping review. Supported connectors, deployment options and project-specific capabilities are confirmed during a technical assessment. No live systems are connected to this website.",
+    "demo": true
+  },
+  {
+    "path": "platform/data-modernization",
+    "title": "Data Modernization",
+    "headline": "Bring data from scattered systems into structures your applications and reporting can use.",
+    "intro": "Start with a review of the systems involved, the information they hold and the people responsible for them. The result is a scoped plan with explicit dependencies and acceptance criteria.",
+    "category": "Platform",
+    "parent": "platform",
+    "uses": [
+      "Understand the current state",
+      "Agree the controls",
+      "Validate the result"
+    ],
+    "detail": "Implementation details depend on the systems, access and requirements established during discovery. We document assumptions early so they can be reviewed before data moves or production behavior changes."
+  },
+  {
+    "path": "platform/application-consolidation",
+    "title": "Application Consolidation",
+    "headline": "Review overlapping systems and plan a move toward clearer ownership and fewer duplicated workflows.",
+    "intro": "Start with a review of the systems involved, the information they hold and the people responsible for them. The result is a scoped plan with explicit dependencies and acceptance criteria.",
+    "category": "Platform",
+    "parent": "platform",
+    "uses": [
+      "Understand the current state",
+      "Agree the controls",
+      "Validate the result"
+    ],
+    "detail": "Implementation details depend on the systems, access and requirements established during discovery. We document assumptions early so they can be reviewed before data moves or production behavior changes."
+  },
+  {
+    "path": "platform/connectors",
+    "title": "Connectors",
+    "headline": "Plan integrations around the APIs, exports and access available in your source and destination systems.",
+    "intro": "Start with a review of the systems involved, the information they hold and the people responsible for them. The result is a scoped plan with explicit dependencies and acceptance criteria.",
+    "category": "Platform",
+    "parent": "platform",
+    "uses": [
+      "Understand the current state",
+      "Agree the controls",
+      "Validate the result"
+    ],
+    "detail": "Implementation details depend on the systems, access and requirements established during discovery. We document assumptions early so they can be reviewed before data moves or production behavior changes."
+  },
+  {
+    "path": "platform/security",
+    "title": "Security",
+    "headline": "Identify access boundaries, data-handling requirements and operational controls before a migration begins.",
+    "intro": "Start with a review of the systems involved, the information they hold and the people responsible for them. The result is a scoped plan with explicit dependencies and acceptance criteria.",
+    "category": "Platform",
+    "parent": "platform",
+    "uses": [
+      "Understand the current state",
+      "Agree the controls",
+      "Validate the result"
+    ],
+    "detail": "Implementation details depend on the systems, access and requirements established during discovery. We document assumptions early so they can be reviewed before data moves or production behavior changes."
+  },
+  {
+    "path": "contact",
+    "title": "Contact Us",
+    "headline": "Tell us what you are working on.",
+    "intro": "Whether you have a detailed brief or an early idea, start with the problem you want to solve. Use the planner below to put the essentials in one place.",
+    "category": "Contact"
+  },
+  {
+    "path": "careers",
+    "title": "Careers",
+    "headline": "Bring curiosity to difficult problems.",
+    "intro": "Interested in the way we work? Our focus spans design, engineering, data and delivery. This page does not currently list verified open positions.",
+    "category": "Company",
+    "detail": "When role details are available, they should include the responsibilities, location, working arrangement and application process. No applications are collected through this website today.",
+    "uses": [
+      "Design",
+      "Engineering",
+      "Quality and delivery"
+    ]
+  },
+  {
+    "path": "privacy",
+    "title": "Privacy",
+    "headline": "How this website handles your information.",
+    "intro": "The project planner creates a text file in your browser. It does not submit your entries to Tesserova, and the site does not store those entries in an application database.",
+    "category": "Website information",
+    "detail": "The site is delivered through a hosting provider, which may process operational request information. This page describes the current planner behavior; a complete company privacy notice, including controller details and applicable rights, must be supplied before collecting enquiries."
+  },
+  {
+    "path": "terms",
+    "title": "Terms",
+    "headline": "Website information and demonstrations.",
+    "intro": "This website introduces Tesserova services and includes illustrative workflows. It does not provide a contract, a binding quote or a guarantee of service availability.",
+    "category": "Website information",
+    "detail": "Project scope, delivery dates, commercial terms and any service commitments need to be agreed separately. Interactive demonstrations use sample data. Company-approved contractual terms must be provided before this website is used to transact."
+  },
+  {
+    "path": "resources",
+    "title": "Resources",
+    "headline": "Understand the approach before you start.",
+    "intro": "Explore how we plan work, connect technology layers and approach data migration.",
+    "category": "Explore",
+    "links": [
+      {
+        "title": "Our Process",
+        "path": "process",
+        "description": "Every project has its own constraints. Our process creates space to understand them, test assumptions and make progress visible."
+      },
+      {
+        "title": "Technology Stack",
+        "path": "technology-stack",
+        "description": "A useful architecture connects infrastructure, data, applications, intelligence and experience. We choose the details around your requirements and existing investments."
+      },
+      {
+        "title": "Universal Migration Platform",
+        "path": "platform",
+        "description": "Explore the Tesserova migration approach: understand the source, map the fields, review exceptions and validate the result before cutover."
+      }
+    ]
+  },
+  {
+    "path": "sitemap",
+    "title": "Sitemap",
+    "headline": "Find your next step.",
+    "intro": "Browse every service, technology, industry and company page.",
+    "category": "Explore",
+    "links": [
+      {
+        "title": "Custom Web Development",
+        "path": "services/custom-web-development",
+        "description": "Services"
+      },
+      {
+        "title": "React",
+        "path": "services/custom-web-development/react",
+        "description": "Technology"
+      },
+      {
+        "title": "Angular",
+        "path": "services/custom-web-development/angular",
+        "description": "Technology"
+      },
+      {
+        "title": "Next.js",
+        "path": "services/custom-web-development/next-js",
+        "description": "Technology"
+      },
+      {
+        "title": "PHP",
+        "path": "services/custom-web-development/php",
+        "description": "Technology"
+      },
+      {
+        "title": "CakePHP",
+        "path": "services/custom-web-development/cakephp",
+        "description": "Technology"
+      },
+      {
+        "title": "Laravel",
+        "path": "services/custom-web-development/laravel",
+        "description": "Technology"
+      },
+      {
+        "title": "CodeIgniter",
+        "path": "services/custom-web-development/codeigniter",
+        "description": "Technology"
+      },
+      {
+        "title": "Yii",
+        "path": "services/custom-web-development/yii",
+        "description": "Technology"
+      },
+      {
+        "title": "Microsoft Services",
+        "path": "services/microsoft-services",
+        "description": "Services"
+      },
+      {
+        "title": ".NET / .NET Core",
+        "path": "services/microsoft-services/net-net-core",
+        "description": "Technology"
+      },
+      {
+        "title": "ASP.NET Development",
+        "path": "services/microsoft-services/asp-net-development",
+        "description": "Technology"
+      },
+      {
+        "title": "ASP.NET MVC Development",
+        "path": "services/microsoft-services/asp-net-mvc-development",
+        "description": "Technology"
+      },
+      {
+        "title": "C#",
+        "path": "services/microsoft-services/c",
+        "description": "Technology"
+      },
+      {
+        "title": "Azure Development",
+        "path": "services/microsoft-services/azure-development",
+        "description": "Technology"
+      },
+      {
+        "title": "Azure Integration",
+        "path": "services/microsoft-services/azure-integration",
+        "description": "Technology"
+      },
+      {
+        "title": "SQL Services",
+        "path": "services/microsoft-services/sql-services",
+        "description": "Technology"
+      },
+      {
+        "title": "Custom Microsoft Development",
+        "path": "services/microsoft-services/custom-microsoft-development",
+        "description": "Technology"
+      },
+      {
+        "title": "Microsoft Dynamics",
+        "path": "services/microsoft-services/microsoft-dynamics",
+        "description": "Technology"
+      },
+      {
+        "title": "Business Central",
+        "path": "services/microsoft-services/business-central",
+        "description": "Technology"
+      },
+      {
+        "title": "Dynamics AX",
+        "path": "services/microsoft-services/dynamics-ax",
+        "description": "Technology"
+      },
+      {
+        "title": "Dynamics 365 Finance & Operations",
+        "path": "services/microsoft-services/dynamics-365-finance-operations",
+        "description": "Technology"
+      },
+      {
+        "title": "SaaS Application Development",
+        "path": "services/microsoft-services/saas-application-development",
+        "description": "Technology"
+      },
+      {
+        "title": "Database Technologies",
+        "path": "services/microsoft-services/database-technologies",
+        "description": "Technology"
+      },
+      {
+        "title": "Microsoft Maintenance",
+        "path": "services/microsoft-services/microsoft-maintenance",
+        "description": "Technology"
+      },
+      {
+        "title": "Mobile App Development",
+        "path": "services/mobile-app-development",
+        "description": "Services"
+      },
+      {
+        "title": "Android App Development",
+        "path": "services/mobile-app-development/android-app-development",
+        "description": "Technology"
+      },
+      {
+        "title": "iOS App Development",
+        "path": "services/mobile-app-development/ios-app-development",
+        "description": "Technology"
+      },
+      {
+        "title": "React Native",
+        "path": "services/mobile-app-development/react-native",
+        "description": "Technology"
+      },
+      {
+        "title": "Tablet App Development",
+        "path": "services/mobile-app-development/tablet-app-development",
+        "description": "Technology"
+      },
+      {
+        "title": "Flutter",
+        "path": "services/mobile-app-development/flutter",
+        "description": "Technology"
+      },
+      {
+        "title": "Ionic",
+        "path": "services/mobile-app-development/ionic",
+        "description": "Technology"
+      },
+      {
+        "title": "Enterprise Mobile Solutions",
+        "path": "services/mobile-app-development/enterprise-mobile-solutions",
+        "description": "Technology"
+      },
+      {
+        "title": "Wearable App Development",
+        "path": "services/mobile-app-development/wearable-app-development",
+        "description": "Technology"
+      },
+      {
+        "title": "UI/UX Design",
+        "path": "services/ui-ux-design",
+        "description": "Services"
+      },
+      {
+        "title": "High & Low Fidelity Wireframes",
+        "path": "services/ui-ux-design/high-low-fidelity-wireframes",
+        "description": "Technology"
+      },
+      {
+        "title": "Prototypes",
+        "path": "services/ui-ux-design/prototypes",
+        "description": "Technology"
+      },
+      {
+        "title": "Mobile First Design",
+        "path": "services/ui-ux-design/mobile-first-design",
+        "description": "Technology"
+      },
+      {
+        "title": "SaaS Design",
+        "path": "services/ui-ux-design/saas-design",
+        "description": "Technology"
+      },
+      {
+        "title": "eCommerce Design",
+        "path": "services/ui-ux-design/ecommerce-design",
+        "description": "Technology"
+      },
+      {
+        "title": "Full Stack Development",
+        "path": "services/full-stack-development",
+        "description": "Services"
+      },
+      {
+        "title": "MEAN",
+        "path": "services/full-stack-development/mean",
+        "description": "Technology"
+      },
+      {
+        "title": "MERN",
+        "path": "services/full-stack-development/mern",
+        "description": "Technology"
+      },
+      {
+        "title": "LAMP",
+        "path": "services/full-stack-development/lamp",
+        "description": "Technology"
+      },
+      {
+        "title": "Angular / React & .NET",
+        "path": "services/full-stack-development/angular-react-net",
+        "description": "Technology"
+      },
+      {
+        "title": "Ruby on Rails",
+        "path": "services/full-stack-development/ruby-on-rails",
+        "description": "Technology"
+      },
+      {
+        "title": "ASP.NET",
+        "path": "services/full-stack-development/asp-net",
+        "description": "Technology"
+      },
+      {
+        "title": "AI & Bot Development",
+        "path": "services/full-stack-development/ai-bot-development",
+        "description": "Technology"
+      },
+      {
+        "title": "AI/ML & IoT",
+        "path": "services/ai-ml-iot",
+        "description": "Services"
+      },
+      {
+        "title": "Predictive Analytics",
+        "path": "services/ai-ml-iot/predictive-analytics",
+        "description": "Technology"
+      },
+      {
+        "title": "Natural Language Processing",
+        "path": "services/ai-ml-iot/natural-language-processing",
+        "description": "Technology"
+      },
+      {
+        "title": "Computer Vision",
+        "path": "services/ai-ml-iot/computer-vision",
+        "description": "Technology"
+      },
+      {
+        "title": "Recommendation Systems",
+        "path": "services/ai-ml-iot/recommendation-systems",
+        "description": "Technology"
+      },
+      {
+        "title": "IoT Integration",
+        "path": "services/ai-ml-iot/iot-integration",
+        "description": "Technology"
+      },
+      {
+        "title": "Real-Time Insights",
+        "path": "services/ai-ml-iot/real-time-insights",
+        "description": "Technology"
+      },
+      {
+        "title": "eCommerce Development",
+        "path": "services/ecommerce-development",
+        "description": "Services"
+      },
+      {
+        "title": "WooCommerce",
+        "path": "services/ecommerce-development/woocommerce",
+        "description": "Technology"
+      },
+      {
+        "title": "Magento",
+        "path": "services/ecommerce-development/magento",
+        "description": "Technology"
+      },
+      {
+        "title": "Shopify",
+        "path": "services/ecommerce-development/shopify",
+        "description": "Technology"
+      },
+      {
+        "title": "BigCommerce",
+        "path": "services/ecommerce-development/bigcommerce",
+        "description": "Technology"
+      },
+      {
+        "title": "OpenCart",
+        "path": "services/ecommerce-development/opencart",
+        "description": "Technology"
+      },
+      {
+        "title": "Custom Commerce Development",
+        "path": "services/ecommerce-development/custom-commerce-development",
+        "description": "Technology"
+      },
+      {
+        "title": "CMS Development",
+        "path": "services/cms-development",
+        "description": "Services"
+      },
+      {
+        "title": "WordPress Development",
+        "path": "services/cms-development/wordpress-development",
+        "description": "Technology"
+      },
+      {
+        "title": "Wix Development",
+        "path": "services/cms-development/wix-development",
+        "description": "Technology"
+      },
+      {
+        "title": "Digital Marketing",
+        "path": "services/digital-marketing",
+        "description": "Services"
+      },
+      {
+        "title": "SEO",
+        "path": "services/digital-marketing/seo",
+        "description": "Technology"
+      },
+      {
+        "title": "PPC Management",
+        "path": "services/digital-marketing/ppc-management",
+        "description": "Technology"
+      },
+      {
+        "title": "Social Media Marketing",
+        "path": "services/digital-marketing/social-media-marketing",
+        "description": "Technology"
+      },
+      {
+        "title": "Content Marketing",
+        "path": "services/digital-marketing/content-marketing",
+        "description": "Technology"
+      },
+      {
+        "title": "Email Marketing",
+        "path": "services/digital-marketing/email-marketing",
+        "description": "Technology"
+      },
+      {
+        "title": "Quality Assurance",
+        "path": "services/quality-assurance",
+        "description": "Services"
+      },
+      {
+        "title": "Manual Testing",
+        "path": "services/quality-assurance/manual-testing",
+        "description": "Technology"
+      },
+      {
+        "title": "Automation Testing",
+        "path": "services/quality-assurance/automation-testing",
+        "description": "Technology"
+      },
+      {
+        "title": "Selenium",
+        "path": "services/quality-assurance/selenium",
+        "description": "Technology"
+      },
+      {
+        "title": "Cucumber",
+        "path": "services/quality-assurance/cucumber",
+        "description": "Technology"
+      },
+      {
+        "title": "Appium",
+        "path": "services/quality-assurance/appium",
+        "description": "Technology"
+      },
+      {
+        "title": "Cypress",
+        "path": "services/quality-assurance/cypress",
+        "description": "Technology"
+      },
+      {
+        "title": "Postman",
+        "path": "services/quality-assurance/postman",
+        "description": "Technology"
+      },
+      {
+        "title": "Apache JMeter",
+        "path": "services/quality-assurance/apache-jmeter",
+        "description": "Technology"
+      },
+      {
+        "title": "Unit Testing",
+        "path": "services/quality-assurance/unit-testing",
+        "description": "Technology"
+      },
+      {
+        "title": "Integration Testing",
+        "path": "services/quality-assurance/integration-testing",
+        "description": "Technology"
+      },
+      {
+        "title": "Functional Testing",
+        "path": "services/quality-assurance/functional-testing",
+        "description": "Technology"
+      },
+      {
+        "title": "Performance Testing",
+        "path": "services/quality-assurance/performance-testing",
+        "description": "Technology"
+      },
+      {
+        "title": "Regression Testing",
+        "path": "services/quality-assurance/regression-testing",
+        "description": "Technology"
+      },
+      {
+        "title": "Smoke Testing",
+        "path": "services/quality-assurance/smoke-testing",
+        "description": "Technology"
+      },
+      {
+        "title": "White Box & Black Box Testing",
+        "path": "services/quality-assurance/white-box-black-box-testing",
+        "description": "Technology"
+      },
+      {
+        "title": "IT Consultation",
+        "path": "services/it-consultation",
+        "description": "Services"
+      },
+      {
+        "title": "Technology Strategy",
+        "path": "services/it-consultation/technology-strategy",
+        "description": "Technology"
+      },
+      {
+        "title": "Architecture Review",
+        "path": "services/it-consultation/architecture-review",
+        "description": "Technology"
+      },
+      {
+        "title": "Modernization Roadmap",
+        "path": "services/it-consultation/modernization-roadmap",
+        "description": "Technology"
+      },
+      {
+        "title": "Data Engineering",
+        "path": "services/data-engineering",
+        "description": "Services"
+      },
+      {
+        "title": "Data Pipelines",
+        "path": "services/data-engineering/data-pipelines",
+        "description": "Technology"
+      },
+      {
+        "title": "Data Modeling",
+        "path": "services/data-engineering/data-modeling",
+        "description": "Technology"
+      },
+      {
+        "title": "Data Quality",
+        "path": "services/data-engineering/data-quality",
+        "description": "Technology"
+      },
+      {
+        "title": "Generative AI",
+        "path": "services/generative-ai",
+        "description": "Services"
+      },
+      {
+        "title": "AI Content Generation",
+        "path": "services/generative-ai/ai-content-generation",
+        "description": "Technology"
+      },
+      {
+        "title": "Intelligent Chatbots",
+        "path": "services/generative-ai/intelligent-chatbots",
+        "description": "Technology"
+      },
+      {
+        "title": "Automated Code & Design Creation",
+        "path": "services/generative-ai/automated-code-design-creation",
+        "description": "Technology"
+      },
+      {
+        "title": "Cloud Solutions",
+        "path": "services/cloud-solutions",
+        "description": "Services"
+      },
+      {
+        "title": "Azure",
+        "path": "services/cloud-solutions/azure",
+        "description": "Technology"
+      },
+      {
+        "title": "AWS",
+        "path": "services/cloud-solutions/aws",
+        "description": "Technology"
+      },
+      {
+        "title": "Google Cloud",
+        "path": "services/cloud-solutions/google-cloud",
+        "description": "Technology"
+      },
+      {
+        "title": "Kubernetes",
+        "path": "services/cloud-solutions/kubernetes",
+        "description": "Technology"
+      },
+      {
+        "title": "Serverless",
+        "path": "services/cloud-solutions/serverless",
+        "description": "Technology"
+      },
+      {
+        "title": "Infrastructure as Code",
+        "path": "services/cloud-solutions/infrastructure-as-code",
+        "description": "Technology"
+      },
+      {
+        "title": "Services",
+        "path": "services",
+        "description": "Explore"
+      },
+      {
+        "title": "About Tesserova",
+        "path": "about",
+        "description": "Company"
+      },
+      {
+        "title": "Who We Are",
+        "path": "who-we-are",
+        "description": "Company"
+      },
+      {
+        "title": "What We Do",
+        "path": "what-we-do",
+        "description": "Company"
+      },
+      {
+        "title": "Mission & Vision",
+        "path": "mission",
+        "description": "Company"
+      },
+      {
+        "title": "Our Teams",
+        "path": "team",
+        "description": "Company"
+      },
+      {
+        "title": "Transportation",
+        "path": "industries/transportation",
+        "description": "Industries"
+      },
+      {
+        "title": "Healthcare",
+        "path": "industries/healthcare",
+        "description": "Industries"
+      },
+      {
+        "title": "Fintech",
+        "path": "industries/fintech",
+        "description": "Industries"
+      },
+      {
+        "title": "Industries",
+        "path": "industries",
+        "description": "Explore"
+      },
+      {
+        "title": "Hire .NET Developers",
+        "path": "hire/net",
+        "description": "Dedicated Teams"
+      },
+      {
+        "title": "Hire Java Developers",
+        "path": "hire/java",
+        "description": "Dedicated Teams"
+      },
+      {
+        "title": "Hire Ruby on Rails Developers",
+        "path": "hire/ruby-on-rails",
+        "description": "Dedicated Teams"
+      },
+      {
+        "title": "Hire PHP Developers",
+        "path": "hire/php",
+        "description": "Dedicated Teams"
+      },
+      {
+        "title": "Hire MERN Developers",
+        "path": "hire/mern",
+        "description": "Dedicated Teams"
+      },
+      {
+        "title": "Hire MEAN Developers",
+        "path": "hire/mean",
+        "description": "Dedicated Teams"
+      },
+      {
+        "title": "Hire QA Engineers",
+        "path": "hire/qa",
+        "description": "Dedicated Teams"
+      },
+      {
+        "title": "Hire Dedicated Developers",
+        "path": "hire",
+        "description": "Explore"
+      },
+      {
+        "title": "Our Process",
+        "path": "process",
+        "description": "Resources"
+      },
+      {
+        "title": "Technology Stack",
+        "path": "technology-stack",
+        "description": "Resources"
+      },
+      {
+        "title": "Universal Migration Platform",
+        "path": "platform",
+        "description": "Platform"
+      },
+      {
+        "title": "Data Modernization",
+        "path": "platform/data-modernization",
+        "description": "Platform"
+      },
+      {
+        "title": "Application Consolidation",
+        "path": "platform/application-consolidation",
+        "description": "Platform"
+      },
+      {
+        "title": "Connectors",
+        "path": "platform/connectors",
+        "description": "Platform"
+      },
+      {
+        "title": "Security",
+        "path": "platform/security",
+        "description": "Platform"
+      },
+      {
+        "title": "Contact Us",
+        "path": "contact",
+        "description": "Contact"
+      },
+      {
+        "title": "Careers",
+        "path": "careers",
+        "description": "Company"
+      },
+      {
+        "title": "Privacy",
+        "path": "privacy",
+        "description": "Website information"
+      },
+      {
+        "title": "Terms",
+        "path": "terms",
+        "description": "Website information"
+      },
+      {
+        "title": "Resources",
+        "path": "resources",
+        "description": "Explore"
+      }
+    ]
+  }
+]
