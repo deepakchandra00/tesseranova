@@ -18,7 +18,9 @@
 /out/
 
 # production
-/build
+/dist
+.wrangler/
+.sites-runtime/
 
 # misc
 .DS_Store
